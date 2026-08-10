@@ -1,0 +1,17 @@
+.DS_Store
+node_modules/
+dist/
+coverage/
+playwright-report/
+test-results/
+.env
+.env.local
+.env.*.local
+.idea/
+.vscode/
+android/.gradle/
+android/local.properties
+android/app/build/
+ios/App/Pods/
+ios/App/App/public/
+*.log

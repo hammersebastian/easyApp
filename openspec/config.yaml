@@ -1,0 +1,35 @@
+schema: spec-driven
+
+context: |
+  Projektsprache und sichtbare UI-Sprache: Deutsch (de-DE).
+  Produkt: Lernapp für Prüflinge der Sachkundeprüfung Versicherungsvermittlung nach § 34d GewO.
+  Zielplattformen: iOS, Android und installierbare Progressive Web App aus einer Ionic-React-Codebasis mit Capacitor.
+  Frontend: Ionic React mit TypeScript und Vite; Capacitor für die nativen iOS-/Android-Container.
+  Navigation: die von der gewählten stabilen Ionic-Version offiziell unterstützte Kombination aus IonReactRouter, IonRouterOutlet und React Router; Router-Versionen nicht unabhängig aktualisieren.
+  Zustands- und Datenzugriff: TanStack Query für serverseitigen Cache; React Context/Reducer und Hooks für lokalen UI- und Quizstatus; React Hook Form plus Zod für Formulare und Laufzeitvalidierung.
+  Backend: Supabase Auth, PostgreSQL, Row Level Security, Storage und serverseitige Funktionen/RPCs.
+  Rollen: learner und admin. Der Adminbereich ist PWA-first, bleibt aber responsiv.
+  Markenstatus: Produktname ist noch nicht final. Logo und Markenfarben sind vorhanden. Namen, Bundle-IDs und Store-Texte müssen konfigurierbar bleiben.
+  Kernfarbe aus dem gelieferten Logo: Lime #BFE560. Dunkelgrün aus dem Logo: #3C806B.
+  Fragenformat: exakt vier Antworten, genau eine richtige Antwort, richtige_antwort ist nullbasiert von 0 bis 3.
+  MVP-Modi: Training, Fehler wiederholen und Prüfungssimulation. Multiplayer ist nicht Teil des MVP.
+  Datenschutz: Datenminimierung, EU-Hosting, serverseitige Autorisierung, Kontolöschung und Datenschutzhinweise sind verbindlich.
+  Fachliche Einschränkung: Die App bildet nur Single-Choice-Fragen ab und ist keine originalgetreue IHK-Prüfungssoftware.
+
+rules:
+  proposal:
+    - MVP-Umfang, Nicht-Ziele, Risiken und fachliche Abgrenzung explizit nennen.
+    - Jede Erweiterung außerhalb des freigegebenen MVP als separates Folgevorhaben kennzeichnen.
+  specs:
+    - Anforderungen auf Deutsch und als beobachtbares Verhalten formulieren.
+    - Jede Anforderung erhält mindestens ein testbares GIVEN/WHEN/THEN-Szenario.
+    - Keine konkreten React-Komponenten, Dateinamen oder Bibliotheksimplementierungen in fachliche Specs schreiben.
+    - Sicherheits- und Rollenregeln sowohl für die Oberfläche als auch serverseitig spezifizieren.
+  design:
+    - Technische Entscheidungen, Datenmodell, Fehlerfälle, Sicherheit, Barrierefreiheit und Teststrategie dokumentieren.
+    - Für rechtliche oder prüfungsbezogene Behauptungen Primärquellen verlinken und das Prüfdatum festhalten.
+    - Abweichungen von dieser Planung vor der Implementierung als OpenSpec-Änderung dokumentieren.
+  tasks:
+    - Aufgaben in implementierbare vertikale Schritte mit Verweisen auf Requirement-IDs zerlegen.
+    - Jede Funktion umfasst Unit-, Komponenten-, Integrations-, End-to-End- beziehungsweise Sicherheitstests im angemessenen Umfang.
+    - Eine Aufgabe erst abhaken, wenn Implementierung und zugehörige automatisierte Tests abgeschlossen sind.
