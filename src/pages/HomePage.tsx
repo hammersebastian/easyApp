@@ -10,7 +10,7 @@ import {
   schoolOutline,
   settingsOutline,
 } from 'ionicons/icons';
-import { Link, useHistory } from 'react-router-dom';
+import { Link, useHistory, useLocation } from 'react-router-dom';
 import { AppPage } from '../components/AppPage';
 import { DemoBanner } from '../components/DemoBanner';
 import { LoadingState } from '../components/LoadingState';
@@ -21,6 +21,7 @@ import { learningRepository } from '../repositories';
 export function HomePage() {
   const { user } = useAuth();
   const history = useHistory();
+  const location = useLocation<{ registrationSuccess?: boolean }>();
   const progress = useQuery({ queryKey: ['progress'], queryFn: () => learningRepository.getProgress() });
   const active = useQuery({ queryKey: ['active-session'], queryFn: () => learningRepository.getActiveSession() });
 
@@ -35,6 +36,9 @@ export function HomePage() {
       actions={<IonButton fill="clear" routerLink="/profile" aria-label="Profil öffnen"><IonIcon icon={settingsOutline} /></IonButton>}
     >
       <DemoBanner />
+      {location.state?.registrationSuccess && (
+        <p className="surface success-text" role="status">Dein Konto wurde erfolgreich erstellt.</p>
+      )}
       <section className="surface home-hero">
         <span className="eyebrow">Dein Lernraum</span>
         <h1>Hallo, {user?.displayName}.</h1>

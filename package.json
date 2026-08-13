@@ -9,9 +9,10 @@
   },
   "scripts": {
     "dev": "vite --mode demo",
-    "dev:supabase": "vite --mode local",
+    "dev:supabase": "vite --mode development",
     "build": "tsc -b && vite build",
     "build:demo": "tsc -b && vite build --mode demo",
+    "build:local": "tsc -b && vite build --mode development",
     "preview": "vite preview",
     "typecheck": "tsc -b --pretty false",
     "lint": "eslint . --max-warnings=0",
@@ -22,6 +23,7 @@
     "test:coverage": "vitest run --coverage",
     "test:e2e": "playwright test",
     "cap:sync": "pnpm build && cap sync",
+    "cap:sync:local": "pnpm build:local && cap sync ios",
     "cap:add:ios": "cap add ios",
     "cap:add:android": "cap add android",
     "native:configure": "node scripts/configure-native.mjs"

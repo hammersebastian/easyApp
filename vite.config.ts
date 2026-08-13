@@ -13,7 +13,7 @@ export default defineConfig(({ mode }) => {
     plugins: [
       react(),
       VitePWA({
-        registerType: 'prompt',
+        registerType: 'autoUpdate',
         includeAssets: ['assets/logo-mark.png'],
         manifest: {
           name: productName,
@@ -31,6 +31,7 @@ export default defineConfig(({ mode }) => {
           ]
         },
         workbox: {
+          cleanupOutdatedCaches: true,
           navigateFallback: `${base}index.html`,
           globPatterns: ['**/*.{js,css,html,png,svg,woff2}'],
           runtimeCaching: [],

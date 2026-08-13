@@ -6,7 +6,7 @@ import type { SignUpInput } from '../repositories/LearningRepository';
 interface AuthContextValue {
   user: UserProfile | null;
   loading: boolean;
-  signIn(email: string, password: string): Promise<void>;
+  signIn(email: string, password: string): Promise<UserProfile>;
   signUp(input: SignUpInput): Promise<{ needsVerification: boolean }>;
   requestReset(email: string): Promise<void>;
   updatePassword(password: string): Promise<void>;
@@ -35,9 +35,17 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   }, []);
 
   const signIn = useCallback(async (email: string, password: string) => {
-    setUser(await learningRepository.signIn(email, password));
+    const profile = await learningRepository.signIn(email, password);
+    setUser(profile);
+    return profile;
   }, []);
-  const signUp = useCallback(async (input: SignUpInput) => learningRepository.signUp(input), []);
+  const signUp = useCallback(async (input: SignUpInput) => {
+    const result = await learningRepository.signUp(input);
+    if (!result.needsVerification) {
+      setUser(await learningRepository.getCurrentUser());
+    }
+    return result;
+  }, []);
   const requestReset = useCallback(async (email: string) => learningRepository.requestPasswordReset(email), []);
   const updatePassword = useCallback(async (password: string) => learningRepository.updatePassword(password), []);
   const signOut = useCallback(async () => {

@@ -53,7 +53,13 @@ export class SupabaseLearningRepository implements LearningRepository {
   onAuthChange(listener: (user: UserProfile | null) => void) {
     const { data } = this.client.auth.onAuthStateChange((_event, session) => {
       if (!session) listener(null);
-      else void this.getCurrentUser().then(listener).catch(() => listener(null));
+      else {
+        // Supabase hält während des Callbacks intern einen Auth-Lock. Die
+        // Profilabfrage muss deshalb erst nach dem Callback beginnen.
+        setTimeout(() => {
+          void this.getCurrentUser().then(listener).catch(() => listener(null));
+        }, 0);
+      }
     });
     return () => data.subscription.unsubscribe();
   }

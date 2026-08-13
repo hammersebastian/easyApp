@@ -1,11 +1,13 @@
 import { IonButton, IonContent, IonPage, IonSegment, IonSegmentButton, IonLabel } from '@ionic/react';
 import { useState, type FormEvent } from 'react';
 import { useHistory } from 'react-router-dom';
+import { ZodError } from 'zod';
 import { appConfig } from '../config/appConfig';
 import { useAuth } from '../contexts/AuthContext';
 import { authSchema, registrationSchema } from '../domain/schemas';
 
 type Mode = 'login' | 'register' | 'reset';
+type FormError = { title: string; messages: string[] };
 
 export function AuthPage() {
   const [mode, setMode] = useState<Mode>('login');
@@ -14,13 +16,13 @@ export function AuthPage() {
   const [displayName, setDisplayName] = useState('');
   const [busy, setBusy] = useState(false);
   const [message, setMessage] = useState('');
-  const [error, setError] = useState('');
+  const [error, setError] = useState<FormError | null>(null);
   const { signIn, signUp, requestReset } = useAuth();
   const history = useHistory();
 
   const submit = async (event: FormEvent) => {
     event.preventDefault();
-    setError('');
+    setError(null);
     setMessage('');
     setBusy(true);
     try {
@@ -35,15 +37,25 @@ export function AuthPage() {
           setMessage('Bitte bestätige deine E-Mail-Adresse und melde dich anschließend an.');
           setMode('login');
         } else {
-          history.replace('/home');
+          history.replace('/home', { registrationSuccess: true });
         }
       } else {
         const parsed = authSchema.parse({ email, password });
-        await signIn(parsed.email, parsed.password);
-        history.replace('/home');
+        const user = await signIn(parsed.email, parsed.password);
+        history.replace(user.role === 'admin' ? '/admin' : '/home');
       }
     } catch (caught) {
-      setError(caught instanceof Error ? caught.message : 'Die Anfrage konnte nicht verarbeitet werden.');
+      if (caught instanceof ZodError) {
+        setError({
+          title: 'Bitte prüfe deine Eingaben',
+          messages: [...new Set(caught.issues.map((issue) => issue.message))],
+        });
+      } else {
+        setError({
+          title: 'Das hat leider nicht geklappt',
+          messages: [caught instanceof Error ? caught.message : 'Die Anfrage konnte nicht verarbeitet werden.'],
+        });
+      }
     } finally {
       setBusy(false);
     }
@@ -82,7 +94,17 @@ export function AuthPage() {
                   {mode === 'register' && <span className="field-hint">Mindestens 8 Zeichen</span>}
                 </label>
               )}
-              {error && <p className="form-error" role="alert">{error}</p>}
+              {error && (
+                <div className="form-error" role="alert">
+                  <span className="form-error__icon" aria-hidden="true">!</span>
+                  <div>
+                    <strong>{error.title}</strong>
+                    <ul>
+                      {error.messages.map((errorMessage) => <li key={errorMessage}>{errorMessage}</li>)}
+                    </ul>
+                  </div>
+                </div>
+              )}
               {message && <p className="success-text" role="status">{message}</p>}
               <IonButton type="submit" expand="block" disabled={busy}>
                 {busy ? 'Bitte warten …' : mode === 'register' ? 'Kostenlos registrieren' : mode === 'reset' ? 'Link anfordern' : 'Einloggen'}

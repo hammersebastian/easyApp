@@ -54,9 +54,15 @@ ion-input, ion-textarea, ion-select { --color: var(--app-ink); }
 .splash img { width: min(76vw, 330px); height: auto; }
 .splash p { color: var(--app-muted); max-width: 34ch; margin: 0; }
 
-.auth-layout { min-height: calc(100vh - 90px); display: grid; place-items: center; }
+.auth-layout {
+  min-height: calc(100vh - 90px);
+  padding-top: max(20px, calc(env(safe-area-inset-top) + 20px));
+  display: grid;
+  place-items: center;
+}
 .auth-card { width: min(100%, 480px); }
 .auth-logo { display: block; width: 200px; margin: 0 auto 24px; }
+.auth-card ion-segment-button { --color: var(--app-muted); }
 .form-grid { display: grid; gap: 14px; }
 .field {
   display: grid; gap: 7px; color: var(--app-ink); font-weight: 650;
@@ -67,7 +73,17 @@ ion-input, ion-textarea, ion-select { --color: var(--app-ink); }
 }
 .field textarea { min-height: 112px; resize: vertical; }
 .field-hint { color: var(--app-muted); font-size: .82rem; font-weight: 400; }
-.form-error { margin: 0; padding: 12px; border-radius: 10px; background: var(--app-danger-soft); color: var(--app-danger); }
+.form-error {
+  display: grid; grid-template-columns: 24px 1fr; gap: 10px; align-items: start;
+  margin: 0; padding: 14px; border: 1px solid color-mix(in srgb, var(--app-danger) 20%, transparent);
+  border-radius: 12px; background: var(--app-danger-soft); color: var(--app-danger);
+}
+.form-error__icon {
+  display: grid; place-items: center; width: 24px; height: 24px;
+  border-radius: 50%; background: var(--app-danger); color: white; font-size: .85rem; font-weight: 850;
+}
+.form-error strong { display: block; line-height: 1.4; }
+.form-error ul { margin: 4px 0 0; padding-left: 18px; font-size: .9rem; line-height: 1.45; }
 
 .home-hero {
   position: relative; overflow: hidden; border: 0; color: #15372c;

@@ -7,6 +7,7 @@ test('Demo: Registrierung, Training und gespeicherte Auswertung', async ({ page 
   await page.getByLabel('E-Mail-Adresse').fill('test@example.org');
   await page.getByLabel('Passwort').fill('sicheres-passwort');
   await page.getByRole('button', { name: 'Kostenlos registrieren' }).click();
+  await expect(page.getByRole('status')).toContainText('Dein Konto wurde erfolgreich erstellt.');
   await expect(page.getByRole('heading', { name: 'Hallo, Test Lernende.' })).toBeVisible();
   await page.getByRole('link', { name: /Trainieren/ }).click();
   await page.getByLabel(/Private Vorsorge & AV/).check();
@@ -29,4 +30,12 @@ test('Adminroute wird für Lernende abgewehrt', async ({ page }) => {
   await page.getByRole('button', { name: 'Einloggen' }).click();
   await page.goto('/admin');
   await expect(page).toHaveURL(/\/home$/);
+});
+
+test('Admin wird nach der Anmeldung direkt zum Adminbereich geleitet', async ({ page }) => {
+  await page.goto('/auth');
+  await page.getByLabel('E-Mail-Adresse').fill('admin+test@example.org');
+  await page.getByLabel('Passwort').fill('sicheres-passwort');
+  await page.getByRole('button', { name: 'Einloggen' }).click();
+  await expect(page).toHaveURL(/\/admin$/);
 });

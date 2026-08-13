@@ -1,5 +1,6 @@
 .DS_Store
 node_modules/
+.pnpm-store/
 dist/
 coverage/
 playwright-report/
@@ -9,6 +10,10 @@ test-results/
 .env.*.local
 .idea/
 .vscode/
+.serena/
+*.tsbuildinfo
+supabase/.branches/
+supabase/.temp/
 android/.gradle/
 android/local.properties
 android/app/build/

@@ -11,8 +11,10 @@ import '@ionic/react/css/flex-utils.css';
 import './theme/variables.css';
 import './theme/app.css';
 import App from './App';
+import { registerPwaUpdates } from './pwaUpdates';
 
 setupIonicReact({ mode: 'md' });
+registerPwaUpdates();
 
 const queryClient = new QueryClient({
   defaultOptions: {
