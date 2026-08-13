@@ -1,4 +1,5 @@
 import { IonAlert, IonButton, IonIcon } from '@ionic/react';
+import { useQueryClient } from '@tanstack/react-query';
 import { checkmarkCircle, closeCircle, closeOutline, cloudOfflineOutline } from 'ionicons/icons';
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { useHistory, useParams } from 'react-router-dom';
@@ -53,6 +54,7 @@ function Timer({ question, stopped, onTimeout }: { question: LearnerQuestion; st
 export function QuizPage() {
   const { sessionId } = useParams<{ sessionId: string }>();
   const history = useHistory();
+  const queryClient = useQueryClient();
   const [question, setQuestion] = useState<LearnerQuestion | null>(null);
   const [mode, setMode] = useState<QuizMode>('training');
   const [resolution, setResolution] = useState<AnswerResolution | null>(null);
@@ -81,6 +83,13 @@ export function QuizPage() {
 
   useEffect(() => { void load(); }, [load]);
 
+  const refreshLearningState = useCallback(async () => {
+    await Promise.all([
+      queryClient.invalidateQueries({ queryKey: ['progress'], refetchType: 'all' }),
+      queryClient.invalidateQueries({ queryKey: ['active-session'], refetchType: 'all' }),
+    ]);
+  }, [queryClient]);
+
   const submit = useCallback(async (index: number | null, retryKey?: string) => {
     if (!question || submitting || resolution) return;
     const key = retryKey || crypto.randomUUID();
@@ -92,25 +101,32 @@ export function QuizPage() {
       if (mode === 'exam') {
         window.setTimeout(async () => {
           const session = await learningRepository.advanceSession(sessionId);
-          if (session.status === 'completed') history.replace(`/results/${sessionId}`); else void load();
+          if (session.status === 'completed') {
+            await refreshLearningState();
+            history.replace(`/results/${sessionId}`);
+          } else void load();
         }, 450);
       }
     } catch (caught) {
       setError(caught instanceof Error ? caught.message : 'Antwort konnte nicht gespeichert werden.');
     } finally { setSubmitting(false); }
-  }, [history, load, mode, question, resolution, sessionId, submitting]);
+  }, [history, load, mode, question, refreshLearningState, resolution, sessionId, submitting]);
 
   const timeout = useCallback(() => void submit(null), [submit]);
   const next = async () => {
     setSubmitting(true);
     try {
       const session = await learningRepository.advanceSession(sessionId);
-      if (session.status === 'completed') history.replace(`/results/${sessionId}`); else await load();
+      if (session.status === 'completed') {
+        await refreshLearningState();
+        history.replace(`/results/${sessionId}`);
+      } else await load();
     } catch (caught) { setError(caught instanceof Error ? caught.message : 'Runde konnte nicht fortgesetzt werden.'); }
     finally { setSubmitting(false); }
   };
   const abandon = async () => {
     await learningRepository.abandonSession(sessionId);
+    await refreshLearningState();
     history.replace('/home');
   };
 
