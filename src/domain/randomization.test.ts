@@ -5,7 +5,7 @@ describe('deterministische Zufallsauswahl', () => {
   it('wählt die gewünschte Zahl ohne Duplikate', () => {
     const selected = selectRandomUnique([1, 2, 3, 4, 5], 4, () => 0.25);
     expect(selected).toHaveLength(4);
-    expect(new Set(selected)).toHaveSize(4);
+    expect(new Set(selected).size).toBe(4);
   });
 
   it('liefert bei kontrolliertem Zufall reproduzierbare Reihenfolge', () => {
