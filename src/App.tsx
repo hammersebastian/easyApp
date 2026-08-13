@@ -44,7 +44,7 @@ export default function App() {
   return (
     <IonApp>
       <AuthProvider>
-        <IonReactRouter>
+        <IonReactRouter basename={import.meta.env.BASE_URL}>
           <NativeLinkHandler />
           <IonRouterOutlet>
             <Route exact path="/splash" component={SplashPage} />

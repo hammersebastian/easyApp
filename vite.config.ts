@@ -6,8 +6,10 @@ import { defineConfig } from 'vitest/config';
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd(), 'VITE_');
   const productName = env.VITE_PRODUCT_NAME || '34d-Lernapp';
+  const base = env.VITE_BASE_PATH || '/';
 
   return {
+    base,
     plugins: [
       react(),
       VitePWA({
@@ -20,15 +22,16 @@ export default defineConfig(({ mode }) => {
           theme_color: '#3C806B',
           background_color: '#F7FAF4',
           display: 'standalone',
-          start_url: '/',
+          start_url: base,
+          scope: base,
           icons: [
-            { src: '/icons/icon-192.png', sizes: '192x192', type: 'image/png' },
-            { src: '/icons/icon-512.png', sizes: '512x512', type: 'image/png' },
-            { src: '/icons/icon-512-maskable.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' }
+            { src: `${base}icons/icon-192.png`, sizes: '192x192', type: 'image/png' },
+            { src: `${base}icons/icon-512.png`, sizes: '512x512', type: 'image/png' },
+            { src: `${base}icons/icon-512-maskable.png`, sizes: '512x512', type: 'image/png', purpose: 'maskable' }
           ]
         },
         workbox: {
-          navigateFallback: '/index.html',
+          navigateFallback: `${base}index.html`,
           globPatterns: ['**/*.{js,css,html,png,svg,woff2}'],
           runtimeCaching: [],
           navigateFallbackDenylist: [/^\/auth\//, /^\/rest\//, /^\/rpc\//]

@@ -44,6 +44,12 @@ Supabase gibt nach `supabase start` die lokale URL und den Anon-Key aus. Beide W
 
 `pnpm dev` startet ohne Konfiguration den klar gekennzeichneten Demo-Modus. `pnpm dev:supabase` verwendet `.env.local` und prüft die echte Supabase-Integration.
 
+## Kunden-Demo über GitHub Pages
+
+Der Workflow `.github/workflows/deploy-pages.yml` veröffentlicht bei jedem Push auf `main` automatisch den Demo-Modus. Im GitHub-Repository einmalig unter **Settings → Pages → Build and deployment → Source** den Eintrag **GitHub Actions** auswählen. Anschließend ist die App unter `https://<github-name>.github.io/<repository>/` erreichbar. Alternativ lässt sich der Workflow im Tab **Actions** manuell starten.
+
+Die Demo verwendet ausschließlich technische Testdaten und speichert Änderungen lokal im Browser. Beliebige Zugangsdaten funktionieren; eine mit `admin+` beginnende E-Mail schaltet die Demo-Adminansicht frei.
+
 ### Lokalen Admin freischalten
 
 Nach der Registrierung kann ein lokaler Nutzer ausschließlich über die Datenbank zur Adminrolle hochgestuft werden:

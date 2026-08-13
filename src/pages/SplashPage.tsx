@@ -18,7 +18,7 @@ export function SplashPage() {
     <IonPage className="splash-page">
       <IonContent fullscreen>
         <div className="splash" role="status" aria-live="polite">
-          <img src="/assets/logo.png" alt={appConfig.productName} />
+          <img src={`${import.meta.env.BASE_URL}assets/logo.png`} alt={appConfig.productName} />
           <p>Gut vorbereitet. Schritt für Schritt.</p>
           <IonSpinner name="crescent" aria-label="App wird gestartet" />
         </div>

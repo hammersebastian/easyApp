@@ -54,7 +54,7 @@ export function AuthPage() {
       <IonContent fullscreen>
         <main className="page-container auth-layout">
           <section className="surface auth-card" aria-labelledby="auth-title">
-            <img className="auth-logo" src="/assets/logo.png" alt={appConfig.productName} />
+            <img className="auth-logo" src={`${import.meta.env.BASE_URL}assets/logo.png`} alt={appConfig.productName} />
             <IonSegment
               value={mode === 'reset' ? 'login' : mode}
               onIonChange={(event) => setMode(event.detail.value as Mode)}
