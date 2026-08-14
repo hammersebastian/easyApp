@@ -2,6 +2,9 @@ export type Role = 'learner' | 'admin';
 export type QuizMode = 'training' | 'mistakes' | 'exam';
 export type SessionStatus = 'active' | 'completed' | 'abandoned';
 export type QuestionStatus = 'draft' | 'published' | 'archived';
+export type AnswerOptions =
+  | [string, string, string, string]
+  | [string, string, string, string, string];
 
 export interface UserProfile {
   id: string;
@@ -35,7 +38,7 @@ export interface LearnerQuestion {
   subjectId: string;
   subjectName: string;
   prompt: string;
-  answers: readonly [string, string, string, string];
+  answers: Readonly<AnswerOptions>;
   position: number;
   total: number;
   deadlineAt: string;
@@ -64,7 +67,7 @@ export interface QuizSession {
 export interface AnswerDetail {
   questionId: string;
   prompt: string;
-  answers: readonly [string, string, string, string];
+  answers: Readonly<AnswerOptions>;
   selectedIndex: number | null;
   correctIndex: number;
   explanation: string;
@@ -124,7 +127,7 @@ export interface AdminQuestion {
   id: string;
   subjectId: string;
   prompt: string;
-  answers: [string, string, string, string];
+  answers: AnswerOptions;
   correctIndex: number;
   explanation: string;
   status: QuestionStatus;

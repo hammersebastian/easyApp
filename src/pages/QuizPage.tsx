@@ -10,7 +10,7 @@ import { getTimerState } from '../domain/timer';
 import { platformAdapter } from '../platform/platformAdapter';
 import { learningRepository } from '../repositories';
 
-const answerLabels = ['A', 'B', 'C', 'D'];
+const answerLabels = ['A', 'B', 'C', 'D', 'E'];
 
 function Timer({ question, stopped, onTimeout }: { question: LearnerQuestion; stopped: boolean; onTimeout: () => void }) {
   const initialMs = Math.max(0, Date.parse(question.deadlineAt) - Date.parse(question.serverNow));

@@ -1,5 +1,5 @@
 import { appConfig } from '../config/appConfig';
-import { demoQuestions } from '../data/demoQuestions';
+import { catalogQuestions } from '../data/catalogQuestions';
 import { previewQuestionImport } from '../domain/importNormalizer';
 import { adminQuestionSchema } from '../domain/schemas';
 import { summarizeAnswers } from '../domain/scoring';
@@ -50,11 +50,12 @@ interface DemoState {
   stats: Record<string, QuestionStat>;
 }
 
-const STORAGE_KEY = '34d-demo-state-v2';
+const STORAGE_KEY = '34d-demo-state-v3';
+const LEGACY_STORAGE_KEY = '34d-demo-state-v2';
 
 const initialState = (): DemoState => ({
   user: null,
-  questions: structuredClone(demoQuestions),
+  questions: structuredClone(catalogQuestions),
   sessions: [],
   stats: {},
 });
@@ -62,7 +63,11 @@ const initialState = (): DemoState => ({
 const loadState = (): DemoState => {
   try {
     const value = localStorage.getItem(STORAGE_KEY);
-    return value ? (JSON.parse(value) as DemoState) : initialState();
+    if (value) return JSON.parse(value) as DemoState;
+    const legacyValue = localStorage.getItem(LEGACY_STORAGE_KEY);
+    if (!legacyValue) return initialState();
+    const legacy = JSON.parse(legacyValue) as DemoState;
+    return { ...initialState(), user: legacy.user };
   } catch {
     return initialState();
   }

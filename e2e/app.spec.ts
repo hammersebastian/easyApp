@@ -2,7 +2,7 @@ import { expect, test } from '@playwright/test';
 
 test('Demo: Registrierung, Training und gespeicherte Auswertung', async ({ page }) => {
   await page.goto('/');
-  await page.getByText('Registrieren', { exact: true }).click();
+  await page.locator('ion-segment-button[value="register"]').click();
   await page.getByLabel('Anzeigename').fill('Test Lernende');
   await page.getByLabel('E-Mail-Adresse').fill('test@example.org');
   await page.getByLabel('Passwort').fill('sicheres-passwort');
@@ -10,16 +10,16 @@ test('Demo: Registrierung, Training und gespeicherte Auswertung', async ({ page 
   await expect(page.getByRole('status')).toContainText('Dein Konto wurde erfolgreich erstellt.');
   await expect(page.getByRole('heading', { name: 'Hallo, Test Lernende.' })).toBeVisible();
   await page.getByRole('link', { name: /Trainieren/ }).click();
-  await page.getByLabel(/Private Vorsorge & AV/).check();
-  await expect(page.getByText('10 Fragen verfügbar')).toBeVisible();
+  await page.getByRole('checkbox', { name: /Private Vorsorge & AV/ }).check();
+  await expect(page.getByText('22 Fragen verfügbar')).toBeVisible();
   await page.getByRole('button', { name: 'Training starten' }).click();
 
   for (let index = 0; index < 10; index += 1) {
-    await page.getByRole('button', { name: /A Testantwort A/ }).click();
-    await page.getByRole('button', { name: 'Weiter' }).click();
+    await page.getByRole('group', { name: 'Antwortmöglichkeiten' }).getByRole('button').first().click();
+    await page.getByRole('button', { name: 'Weiter', exact: true }).click();
   }
-  await expect(page.getByRole('heading', { name: 'Runde abgeschlossen' })).toBeVisible();
-  await page.getByRole('button', { name: 'Zurück zur Übersicht' }).click();
+  await expect(page.getByText('Runde abgeschlossen', { exact: true })).toBeVisible();
+  await page.getByRole('link', { name: 'Zurück zur Übersicht' }).click();
   await expect(page.getByText('10', { exact: true }).first()).toBeVisible();
 });
 

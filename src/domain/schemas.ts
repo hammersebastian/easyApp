@@ -11,13 +11,17 @@ export const registrationSchema = authSchema.extend({
 });
 
 const answerSchema = z.string().trim().min(1, 'Antwort darf nicht leer sein.').max(500);
+const answersSchema = z.union([
+  z.tuple([answerSchema, answerSchema, answerSchema, answerSchema]),
+  z.tuple([answerSchema, answerSchema, answerSchema, answerSchema, answerSchema]),
+]);
 
 export const adminQuestionSchema = z
   .object({
     subjectId: z.string().min(1, 'Bitte eine Sparte wählen.'),
     prompt: z.string().trim().min(1, 'Frage darf nicht leer sein.').max(2000),
-    answers: z.tuple([answerSchema, answerSchema, answerSchema, answerSchema]),
-    correctIndex: z.number().int().min(0).max(3),
+    answers: answersSchema,
+    correctIndex: z.number().int().min(0).max(4),
     explanation: z.string().trim().min(1, 'Erklärung darf nicht leer sein.').max(4000),
     status: z.enum(['draft', 'published', 'archived']),
     version: z.number().int().positive(),
@@ -44,7 +48,10 @@ export const adminQuestionSchema = z
       .nullable(),
   })
   .superRefine((question, ctx) => {
-    if (new Set(question.answers.map((answer) => answer.toLocaleLowerCase('de-DE'))).size !== 4) {
+    if (question.correctIndex >= question.answers.length) {
+      ctx.addIssue({ code: 'custom', path: ['correctIndex'], message: 'Der richtige Antwortindex ist ungültig.' });
+    }
+    if (new Set(question.answers.map((answer) => answer.toLocaleLowerCase('de-DE'))).size !== question.answers.length) {
       ctx.addIssue({ code: 'custom', path: ['answers'], message: 'Alle Antworten müssen verschieden sein.' });
     }
     if (question.status === 'published') {
@@ -63,8 +70,8 @@ export const adminQuestionSchema = z
 
 export const importQuestionSchema = z.object({
   frage: z.string().trim().min(1).max(2000),
-  antworten: z.tuple([answerSchema, answerSchema, answerSchema, answerSchema]),
-  richtige_antwort: z.number().int().min(0).max(3),
+  antworten: answersSchema,
+  richtige_antwort: z.number().int().min(0).max(4),
   sparte: z.string().trim().min(1),
   erklärung: z.string().trim().min(1).max(4000),
   änderungsanfällig: z.boolean(),
@@ -76,4 +83,8 @@ export const importQuestionSchema = z.object({
   nächste_prüfung_am: z.string().nullable().optional(),
   version: z.number().int().positive().optional().default(1),
   prüfverantwortlich: z.string().nullable().optional(),
+}).superRefine((question, ctx) => {
+  if (question.richtige_antwort >= question.antworten.length) {
+    ctx.addIssue({ code: 'custom', path: ['richtige_antwort'], message: 'Der richtige Antwortindex ist ungültig.' });
+  }
 });

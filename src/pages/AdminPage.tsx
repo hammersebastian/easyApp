@@ -5,7 +5,7 @@ import { useEffect, useMemo, useState, type FormEvent } from 'react';
 import { AppPage } from '../components/AppPage';
 import { LoadingState } from '../components/LoadingState';
 import { findAreaForSubject, taxonomy } from '../domain/taxonomy';
-import type { AdminQuestion, ImportPreview, QuestionFilters, QuestionStatus } from '../domain/types';
+import type { AdminQuestion, AnswerOptions, ImportPreview, QuestionFilters, QuestionStatus } from '../domain/types';
 import { learningRepository } from '../repositories';
 import type { SaveQuestionInput } from '../repositories/LearningRepository';
 
@@ -36,11 +36,11 @@ function QuestionEditor({ selected, onSaved }: { selected: AdminQuestion | null;
   }, [selected]);
 
   const updateAnswer = (index: number, value: string) => setForm((current) => {
-    const answers = [...current.answers] as [string, string, string, string]; answers[index] = value; return { ...current, answers };
+    const answers = [...current.answers] as AnswerOptions; answers[index] = value; return { ...current, answers };
   });
   const moveAnswer = (index: number, direction: -1 | 1) => setForm((current) => {
-    const target = index + direction; if (target < 0 || target > 3) return current;
-    const answers = [...current.answers] as [string, string, string, string];
+    const target = index + direction; if (target < 0 || target >= current.answers.length) return current;
+    const answers = [...current.answers] as AnswerOptions;
     [answers[index], answers[target]] = [answers[target]!, answers[index]!];
     let correctIndex = current.correctIndex;
     if (correctIndex === index) correctIndex = target; else if (correctIndex === target) correctIndex = index;
@@ -64,7 +64,7 @@ function QuestionEditor({ selected, onSaved }: { selected: AdminQuestion | null;
             <input type="radio" name="correct" checked={form.correctIndex === index} onChange={() => setForm({ ...form, correctIndex: index })} aria-label={`Antwort ${index + 1} als richtig markieren`} />
             <label className="field" style={{ flex: 1 }}><span className="field-hint">Antwort {index + 1}</span><input value={answer} maxLength={500} onChange={(event) => updateAnswer(index, event.target.value)} /></label>
             <IonButton fill="clear" size="small" type="button" disabled={index === 0} onClick={() => moveAnswer(index, -1)} aria-label="Antwort nach oben"><IonIcon icon={arrowUpOutline} /></IonButton>
-            <IonButton fill="clear" size="small" type="button" disabled={index === 3} onClick={() => moveAnswer(index, 1)} aria-label="Antwort nach unten"><IonIcon icon={arrowDownOutline} /></IonButton>
+            <IonButton fill="clear" size="small" type="button" disabled={index === form.answers.length - 1} onClick={() => moveAnswer(index, 1)} aria-label="Antwort nach unten"><IonIcon icon={arrowDownOutline} /></IonButton>
           </div>
         ))}</fieldset>
         <label className="field">Erklärung<textarea value={form.explanation} maxLength={4000} onChange={(event) => setForm({ ...form, explanation: event.target.value })} /></label>

@@ -10,6 +10,9 @@ const base = {
 
 describe('Fragenvertrag', () => {
   it('akzeptiert eine vollständige Single-Choice-Frage', () => expect(adminQuestionSchema.safeParse(base).success).toBe(true));
+  it('akzeptiert Fragen mit fünf Antwortmöglichkeiten', () => {
+    expect(adminQuestionSchema.safeParse({ ...base, answers: ['A', 'B', 'C', 'D', 'E'], correctIndex: 4 }).success).toBe(true);
+  });
   it('lehnt doppelte Antworten ab', () => expect(adminQuestionSchema.safeParse({ ...base, answers: ['A', 'A', 'C', 'D'] }).success).toBe(false));
   it('begrenzt änderungsanfällige Fragen auf A/B und Zahlen', () => {
     expect(adminQuestionSchema.safeParse({ ...base, subjectId: 'subject-vermittlerrecht', changeSensitive: true, containsTimeSensitiveNumbers: true, nextReviewAt: '2027-08-10' }).success).toBe(false);

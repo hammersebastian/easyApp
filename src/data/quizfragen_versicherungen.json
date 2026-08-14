@@ -1,0 +1,2103 @@
+[
+  {
+    "frage": "Muss Herr Adler allen Beschäftigten eine arbeitgeberfinanzierte bAV gewähren?",
+    "antworten": [
+      "Es ist zulässig, Personen objektiv abzugrenzen, indem Sie eine Mindestbeschäftigungszeit vorgeben.",
+      "Ja, wenn Sie einem Mitarbeiter eine bAV gewähren, müssen auch alle anderen eine bekommen.",
+      "Nein, Sie können zum Beispiel Teilzeitkräfte ausschließen.",
+      "Sie allein entscheiden, wer eine bAV erhält."
+    ],
+    "richtige_antwort": 0,
+    "sparte": "Betriebliche Altersversorgung",
+    "erklärung": "Es ist zulässig, Personen objektiv abzugrenzen, indem Sie eine Mindestbeschäftigungszeit vorgeben.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Frau Berger wählt eine Direktversicherung per Entgeltumwandlung. Wer sind VN, VP und Bezugsberechtigter?",
+    "antworten": [
+      "VN ist der Arbeitnehmer, VP ist der Arbeitgeber, Bezugsberechtigter ist der Arbeitnehmer",
+      "VN ist der Arbeitgeber, VP und Bezugsberechtigter ist der Arbeitnehmer",
+      "VN ist der Arbeitgeber, VP ist der Arbeitnehmer, Bezugsberechtigter ist grundsätzlich immer der Arbeitgeber",
+      "VN ist der Arbeitnehmer, VP ist der Arbeitnehmer, Bezugsberechtigter ist ganz oder teilweise der Arbeitnehmer"
+    ],
+    "richtige_antwort": 1,
+    "sparte": "Betriebliche Altersversorgung",
+    "erklärung": "VN ist der Arbeitgeber, VP und Bezugsberechtigter ist der Arbeitnehmer",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Conrad möchte bei seiner Direktversicherung die Ehefrau unwiderruflich für den Erlebensfall einsetzen. Ist das möglich?",
+    "antworten": [
+      "Nein, da nur der Arbeitgeber eingetragen werden kann.",
+      "Ja, da der Arbeitnehmer dies frei bestimmen kann.",
+      "Nein, da nur der Arbeitnehmer als unwiderruflich Bezugsberechtigter für den Erlebensfall festgelegt werden darf.",
+      "Nein, da der Bezugsberechtigte erst nach Beginn der Unverfallbarkeit eingetragen wird."
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Betriebliche Altersversorgung",
+    "erklärung": "Nein, da nur der Arbeitnehmer als unwiderruflich Bezugsberechtigter für den Erlebensfall festgelegt werden darf.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Dietrich nutzt für seine Pensionskasse Entgeltumwandlung sowie Zulagen und Sonderausgabenabzug. Wie wird die Leistung besteuert?",
+    "antworten": [
+      "Eine Rentenleistung ist nachgelagert voll zu versteuern.",
+      "Eine Rentenleistung ist steuerfrei.",
+      "Eine Rentenleistung ist mit dem Ertragsanteil zu versteuern.",
+      "Wenn man sich zu Beginn der Auszahlungsphase den Kapitalwert der Rente auszahlen lässt, erfolgt die Auszahlung steuerfrei."
+    ],
+    "richtige_antwort": 0,
+    "sparte": "Betriebliche Altersversorgung",
+    "erklärung": "Eine Rentenleistung ist nachgelagert voll zu versteuern.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Falk arbeitet seit zwölf Monaten. Besteht nach einem Freizeitunfall Anspruch auf volle Erwerbsminderungsrente?",
+    "antworten": [
+      "Vor Erfüllung der allgemeinen Wartezeit gibt es keine Leistung aus der GRV.",
+      "Mit Zahlung des ersten Beitrages besteht grundsätzlich Versicherungsschutz.",
+      "Für die volle Erwerbsminderungsrente besteht Versicherungsschutz, da bereits für 12 Monate Beiträge entrichtet wurden.",
+      "Versicherungsschutz für Erwerbsminderungsrenten besteht erst dann, wenn in den letzten 5 Jahren mindestens für 36 Monate Pflichtbeiträge gezahlt wurden."
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Gesetzliche Rentenversicherung",
+    "erklärung": "Für die volle Erwerbsminderungsrente besteht Versicherungsschutz, da bereits für 12 Monate Beiträge entrichtet wurden.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Frau Graf arbeitete ab 16 sieben Jahre versicherungspflichtig und erzieht seit fünf Jahren ihr Kind. Besteht Anspruch auf Erwerbsminderungsrente?",
+    "antworten": [
+      "Nein, weil sie in den letzten 60 Monaten keine 36 Pflichtbeiträge gezahlt hat.",
+      "Ja, sie erfüllt die rentenrechtlichen Voraussetzungen.",
+      "Ja, weil sie die allgemeine Wartezeit erfüllt hat.",
+      "Nein, die Kindererziehungszeit ist abgelaufen."
+    ],
+    "richtige_antwort": 1,
+    "sparte": "Gesetzliche Rentenversicherung",
+    "erklärung": "Ja, sie erfüllt die rentenrechtlichen Voraussetzungen.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Unter welcher Voraussetzung kann die 38-jährige Frau Hansen bereits mit 62 eine GRV-Altersrente erhalten?",
+    "antworten": [
+      "als Frau in den letzten 20 Jahren überwiegend pflichtversichert waren.",
+      "schwerbehindert sind und die besondere Wartezeit von 35 Jahren erfüllt haben.",
+      "in den letzten 60 Monaten 36 Pflichtbeiträge entrichtet haben.",
+      "die besondere Wartezeit von 35 berücksichtigungsfähigen Versicherungsjahren erfüllt haben."
+    ],
+    "richtige_antwort": 1,
+    "sparte": "Gesetzliche Rentenversicherung",
+    "erklärung": "schwerbehindert sind und die besondere Wartezeit von 35 Jahren erfüllt haben.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Der 22-jährige Student Herr Jäger arbeitet vier Monate für 1.500 EUR monatlich. Erhöht das seinen späteren Rentenanspruch?",
+    "antworten": [
+      "Nein, da er als Student versicherungsfrei ist.",
+      "Nein, da seine anrechnungsfähigen Schulzeiten schon völlig ausgeschöpft sind.",
+      "Nein, da er nach Ablauf eines Semesters alle gezahlten Beiträge auf Antrag zurückerhalten kann.",
+      "Ja, durch diese Tätigkeit erhöht sich sein Rentenanspruch."
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Gesetzliche Rentenversicherung",
+    "erklärung": "Ja, durch diese Tätigkeit erhöht sich sein Rentenanspruch.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr König wechselt als privat Krankenversicherter in den Ruhestand. Welchen Zuschuss erhält er vom Rentenversicherungsträger?",
+    "antworten": [
+      "den halben einheitlichen allgemeinen Beitragssatz und den durchschnittlichen Zusatz-Beitragssatz der GKV auf den Zahlbetrag der Rente aus der GRV, maximal 50 % des zu zahlenden PKV-Beitrages.",
+      "die Hälfte des PKV-Beitrages, maximal den halben KVdR-Beitragssatz.",
+      "den halben einheitlichen allgemeinen Beitragssatz und den durchschnittlichen Zusatz-Beitragssatz der GKV auf den Zahlbetrag der Rente aus der GRV und rentenähnliche Einkünfte, maximal 50 % des zu zahlenden PKV-Beitrages.",
+      "den einheitlichen allgemeinen Beitragssatz und den durchschnittlichen Zusatz-Beitragssatz der GKV, aus der im Jahr des Rentenbezugs gültigen Bezugsgröße, maximal 50 % des tatsächlich zu zahlenden PKV-Beitrages."
+    ],
+    "richtige_antwort": 0,
+    "sparte": "Kranken- und Pflegeversicherung",
+    "erklärung": "den halben einheitlichen allgemeinen Beitragssatz und den durchschnittlichen Zusatz-Beitragssatz der GKV auf den Zahlbetrag der Rente aus der GRV, maximal 50 % des zu zahlenden PKV-Beitrages.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Frau Lorenz wird im Pflegefall von ihrer Tochter in Frankreich betreut. Welche Leistung erhält sie aus der Pflegepflichtversicherung?",
+    "antworten": [
+      "Ja, da es keine Rolle spielt, wo ihre Tochter sie pflegt.",
+      "Nein, da Versicherungsschutz nur in Deutschland besteht.",
+      "Ja, sie erhält das Pflegegeld, das auch in Deutschland fällig geworden wäre.",
+      "Ja, sie erhält die Sachleistungen, die auch in Deutschland fällig geworden wäre...",
+      "Nein, da die Pflege durch einen professionellen Pflegedienst sichergestellt werden muss."
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Kranken- und Pflegeversicherung",
+    "erklärung": "Ja, sie erhält das Pflegegeld, das auch in Deutschland fällig geworden wäre.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Familie Martens ist GKV-versichert. Frau Martens erzielt als Hausfrau 1.300 EUR monatliche Mieteinnahmen. Was ändert sich?",
+    "antworten": [
+      "Frau Martens hat keinen Anspruch mehr darauf, beitragsfrei in der Familienversicherung eingeschlossen zu sein und muss einen eigenen Beitrag für ihren Versicherungsschutz zahlen.",
+      "An der Krankenversicherungssituation ändert sich nichts, eine Grundversorgung besteht.",
+      "Da das Ehepaar Martens jetzt mit ihren Einkünften über der JAEG liegt, werden sie freiwilliges Mitglied in der GKV.",
+      "Frau Martens liegt nun über der Geringverdienergrenze und muss sich selbst pflichtversichern."
+    ],
+    "richtige_antwort": 0,
+    "sparte": "Kranken- und Pflegeversicherung",
+    "erklärung": "Frau Martens hat keinen Anspruch mehr darauf, beitragsfrei in der Familienversicherung eingeschlossen zu sein und muss einen eigenen Beitrag für ihren Versicherungsschutz zahlen.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Neumann hat PKV-Krankentagegeld ab Tag 43 und wird im Ausland akut krank. Wann besteht dort Anspruch?",
+    "antworten": [
+      "in Europa jederzeit.",
+      "in Europa jederzeit, darüber hinaus bis zu einem Monat außerhalb Europas.",
+      "in Europa, wenn eine Heilbehandlung in einem öffentlichen Krankenhaus stattfindet.",
+      "in Europa, wenn eine Heilbehandlung in einem Krankenhaus stattfindet."
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Kranken- und Pflegeversicherung",
+    "erklärung": "in Europa, wenn eine Heilbehandlung in einem öffentlichen Krankenhaus stattfindet.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Oster fragt nach dem gesetzlichen PKV-Basistarif. Wie sind Leistungen und Beitrag ausgestaltet?",
+    "antworten": [
+      "wesentlich höher als in der GKV; die Beiträge begrenzt auf den durchschnittlichen Höchstbeitrag der GKV.",
+      "denen der GKV vergleichbar, die Beiträge begrenzt auf den halben durchschnittlichen Höchstbeitrag der GKV.",
+      "wesentlich höher als in der GKV; die Beiträge begrenzt auf den halben durchschnittlichen Höchstbeitrag der GKV.",
+      "denen der GKV vergleichbar, die Beiträge begrenzt auf den Höchstbeitrag der GKV."
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Kranken- und Pflegeversicherung",
+    "erklärung": "denen der GKV vergleichbar, die Beiträge begrenzt auf den Höchstbeitrag der GKV.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Frau Peters erwartet ein Kind und hat eine Krankheitskosten-Zusatzversicherung. Wann entfallen Wartezeiten für das Neugeborene?",
+    "antworten": [
+      "die Anmeldung spätestens zwei Monate nach der Geburt rückwirkend zum Geburtstermin erfolgt.",
+      "die Kindernachversicherung spätestens zwei Monate nach der Geburt mit Beginn zum nächsten Monatsersten erfolgt.",
+      "ein Elternteil seit mindestens sechs Monaten versichert ist und die Anmeldung spätestens drei Monate nach der Geburt erfolgt.",
+      "ein Elternteil seit mindestens acht Monaten versichert ist und die Anmeldung spätestens zwei Monate nach der Geburt erfolgt."
+    ],
+    "richtige_antwort": 0,
+    "sparte": "Kranken- und Pflegeversicherung",
+    "erklärung": "die Anmeldung spätestens zwei Monate nach der Geburt rückwirkend zum Geburtstermin erfolgt.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Nach welchem Prinzip werden Beiträge in der privaten Krankenversicherung kalkuliert?",
+    "antworten": [
+      "Kostenerstattungsprinzip",
+      "Individualprinzip",
+      "Altersrückstellungsprinzip",
+      "Sachleistungsprinzip",
+      "Äquivalenzprinzip"
+    ],
+    "richtige_antwort": 4,
+    "sparte": "Kranken- und Pflegeversicherung",
+    "erklärung": "Äquivalenzprinzip",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Frau Reuter hält die Leistungen der Pflegepflichtversicherung für vollständig ausreichend. Welche Erklärung ist richtig?",
+    "antworten": [
+      "Eine Kombination von beiden Leistungen ist nur möglich, wenn Sie Ihren Beruf aufgeben.",
+      "Sie als berufstätige Frau haben doch gar keine Möglichkeit, Ihren pflegebedürftigen Mann selbst zu pflegen. Deshalb wird sich eine stationäre Pflege nicht vermeiden lassen.",
+      "Tatsächlich ist es so, dass Pflegegeld und Pflegesachleistung gleichzeitig gezahlt werden können. Allerdings werden die verschiedenen Leistungen absolut aufeinander angerechnet.",
+      "Tatsächlich ist es so, dass Pflegegeld und Pflegesachleistung gleichzeitig gezahlt werden können. Allerdings werden die verschiedenen Leistungen prozentual aufeinander angerechnet."
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Kranken- und Pflegeversicherung",
+    "erklärung": "Tatsächlich ist es so, dass Pflegegeld und Pflegesachleistung gleichzeitig gezahlt werden können. Allerdings werden die verschiedenen Leistungen prozentual aufeinander angerechnet.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Auf welcher Grundlage rechnet ein Arzt bei Privatpatienten ab?",
+    "antworten": [
+      "Es erfolgt immer eine Abrechnung nach der Gebührenordnung für Ärzte (GOÄ) bis zum Höchstsatz der Gebührenordnung.",
+      "Der Arzt entscheidet je nach Behandlungsumfang/-aufwand die Höhe der Rechnung.",
+      "Für die Abrechnung gelten in der GOÄ festgelegte Beträge, eine höhere Abrechnung ist nicht möglich.",
+      "Der Arzt rechnet nach der GOÄ ab. Will er den Höchstsatz überschreiten, ist das vorherige schriftliche Einverständnis des Patienten erforderlich.",
+      "Der Arzt rechnet nach GOÄ ab. Will er den Regelsatz überschreiten, ist das vorherige schriftliche Einverständnis des Patienten erforderlich."
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Kranken- und Pflegeversicherung",
+    "erklärung": "Der Arzt rechnet nach der GOÄ ab. Will er den Höchstsatz überschreiten, ist das vorherige schriftliche Einverständnis des Patienten erforderlich.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Sommer wechselt zum 01.01. nach sechs Monaten GKV-Mitgliedschaft in die PKV und weist die Vorversicherung nach. Ab wann besteht voller Schutz?",
+    "antworten": [
+      "01.01.",
+      "01.03.",
+      "01.04.",
+      "01.09."
+    ],
+    "richtige_antwort": 1,
+    "sparte": "Kranken- und Pflegeversicherung",
+    "erklärung": "01.03.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Wie werden Leistungen aus einer privaten Rentenversicherung besteuert?",
+    "antworten": [
+      "Im Rahmen der Höchstbeträge für Vorsorgeaufwendungen sind die laufenden Renten einkommensteuerfrei.",
+      "Bei einer Rentenbezugsdauer von mindestens 12 Jahren sind die Renten einkommensteuerfrei, sofern mindestens 5 Jahre lang Beiträge bezahlt werden.",
+      "Die laufenden Renten werden mit dem Ertragsanteil versteuert.",
+      "Die Beiträge zur Privaten Rentenversicherung können pauschal mit 20 % steuerlich geltend gemacht werden, maximal aber bis zur Höchstgrenze der Vorsorgeaufwendungen.",
+      "Nur wenn bereits bei Abschluss des Vertrages auf das Kapitalwahlrecht verzichtet wird, sind die laufenden Renten lediglich mit dem Ertragsanteil zu versteuern."
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Lebensversicherung",
+    "erklärung": "Die laufenden Renten werden mit dem Ertragsanteil versteuert.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Frau Thiel wechselt von der Bank in den Taxiberuf. Was bedeutet das für ihre bestehende BU-Rente?",
+    "antworten": [
+      "hat keine Auswirkungen auf den bestehenden Vertrag.",
+      "ist dem Versicherer zu melden, der Versicherungsschutz besteht uneingeschränkt weiter.",
+      "ist dem Versicherer zu melden, ab Meldung wird ein Beitragszuschlag erhoben.",
+      "stellt eine Gefahrerhöhung dar, der Versicherungsschutz wird im Leistungsfall angepasst."
+    ],
+    "richtige_antwort": 0,
+    "sparte": "Lebensversicherung",
+    "erklärung": "hat keine Auswirkungen auf den bestehenden Vertrag.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Frau Ulrich ist versicherte Person; ihr verstorbener Ehemann war widerruflich bezugsberechtigt. Wie kann sie das Bezugsrecht ändern?",
+    "antworten": [
+      "Frau Ulrich kann das Bezugsrecht jederzeit durch eine schriftliche Erklärung ändern lassen.",
+      "Das Bezugsrecht ist automatisch auf die Erben des verstorbenen Begünstigten übergegangen.",
+      "Zur Übernahme des Bezugsrecht benötigen die Erben des Verstorbenen einen Erbschein.",
+      "Das Bezugsrecht geht automatisch auf die Kinder als Erben 1. Ordnung über."
+    ],
+    "richtige_antwort": 0,
+    "sparte": "Lebensversicherung",
+    "erklärung": "Frau Ulrich kann das Bezugsrecht jederzeit durch eine schriftliche Erklärung ändern lassen.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Vogel vereinbart 2.000 EUR Altersrente, 25 Jahre Aufschub und fünf Jahre Rentengarantie. Was erhält die Ehefrau bei Tod in der Aufschubzeit?",
+    "antworten": [
+      "Die eingezahlten Beiträge werden erstattet.",
+      "Sie kann von ihrem Kapitalwahlrecht Gebrauch machen.",
+      "Sie erhält 1.200 € monatlich bis zum Ablauf der Aufschubzeit, anschließend für 5 Jahre 2.000 €.",
+      "Sie erhält 1.200 € monatlich bis zum Ablauf der Rentengarantiezeit.",
+      "Sie erhält 2.000 € monatlich bis zum Ablauf der Rentengarantiezeit."
+    ],
+    "richtige_antwort": 0,
+    "sparte": "Lebensversicherung",
+    "erklärung": "Die eingezahlten Beiträge werden erstattet.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Kann Herr Wagner bei Pflegebedürftigkeit Leistungen aus seiner Berufsunfähigkeits-Zusatzversicherung erwarten?",
+    "antworten": [
+      "Sie verneinen Ansprüche aus der BUZ und verweisen auf die Soziale Pflegeversicherung.",
+      "Im Pflegefall bestehen Ansprüche aus der BUZ entsprechend der Pflegestufen.",
+      "Sie verneinen Ansprüche aus der BUZ, da hierfür Vorsorge über die Private Pflegezusatzversicherung erforderlich ist.",
+      "Bei Pflegebedürftigkeit gibt es Leistungen aus der BUZ unter Anrechnung der Ansprüche aus der Pflegeversicherung, da hierfür Vorsorge über die Private Pflegezusatzversicherung erforderlich ist."
+    ],
+    "richtige_antwort": 1,
+    "sparte": "Lebensversicherung",
+    "erklärung": "Im Pflegefall bestehen Ansprüche aus der BUZ entsprechend der Pflegestufen.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Warum ist bei gleicher Versicherungssumme der Beitrag einer Kapitallebensversicherung bis Alter 67 niedriger als bis Alter 63?",
+    "antworten": [
+      "für längere Laufzeiten der Schlussgewinnanteil höher ausfällt.",
+      "der Kostenanteil im Verhältnis geringer ist, weil sich diese Beiträge auf einen längeren Zeitraum verteilen.",
+      "der Sparanteil geringer ist, weil der Sparvorgang auf einen längeren Zeitraum verteilt wird.",
+      "der Rechnungszins bei längeren Laufzeiten höher ist."
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Lebensversicherung",
+    "erklärung": "der Sparanteil geringer ist, weil der Sparvorgang auf einen längeren Zeitraum verteilt wird.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Frau Albrecht ist alleinerziehend, hat ein einjähriges Kind und dieses Jahr kein Einkommen. Welchen Eigenbeitrag braucht sie für die Riester-Zulage?",
+    "antworten": [
+      "Sie muss nur den Sockelbetrag 68 € zahlen, solange Sie in der Kindererziehungszeit ist.",
+      "Sie muss nur den Sockelbetrag 60 € zahlen, solange Sie in der Kindererziehungszeit ist.",
+      "Sie muss trotz Kindererziehungszeit 4 % Ihres letztjährigen Bruttoeinkommens abzüglich Zulagen bezahlen, um die vollen Zulagen zu erhalten, mindestens den Sockelbetrag.",
+      "Frau Albrecht ist aufgrund des fehlenden Einkommens gar nicht mehr förderfähig."
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Lebensversicherung",
+    "erklärung": "Sie muss trotz Kindererziehungszeit 4 % Ihres letztjährigen Bruttoeinkommens abzüglich Zulagen bezahlen, um die vollen Zulagen zu erhalten, mindestens den Sockelbetrag.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Brandt hat für sich, seine nicht berufstätige Ehefrau und ein 2006 geborenes Kind geförderte Altersvorsorge abgeschlossen. Welche Zulagen erhält die Familie?",
+    "antworten": [
+      "1070 €",
+      "986 €",
+      "456 €",
+      "780 €"
+    ],
+    "richtige_antwort": 1,
+    "sparte": "Lebensversicherung",
+    "erklärung": "986 €",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Kann die einkommenslose Frau Clausen als Ehefrau eines Riester-Sparers einen eigenen geförderten Vertrag abschließen?",
+    "antworten": [
+      "Nein, da sie nicht rentenversicherungspflichtig ist, kann sie keinen eigenen Vertrag abschließen.",
+      "Nein, ein eigener Vertrag ist nicht notwendig, weil ihr Mann bereits die Zulage für sie erhält.",
+      "Ja, sie sollte einen Vertrag abschließen. Dafür muss sie einen Eigenbeitrag mindestens in Höhe des Sockelbetrages von 60 Euro aufbringen.",
+      "Ja, sie sollte einen Vertrag abschließen, da sie eine Förderung erhält, ohne eine Mindesteigenleistung zu erbringen."
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Lebensversicherung",
+    "erklärung": "Ja, sie sollte einen Vertrag abschließen. Dafür muss sie einen Eigenbeitrag mindestens in Höhe des Sockelbetrages von 60 Euro aufbringen.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Was bezeichnet die Versorgungslücke bei Verlust der Arbeitskraft?",
+    "antworten": [
+      "Nettoeinkommen des Kunden und seinen Ansprüchen aus der GRV.",
+      "Nettoeinkommen des Kunden und seiner zu erwartenden Versorgung.",
+      "70 % des Bruttoeinkommens des Kunden und seinen Ansprüchen aus der GRV.",
+      "dem angestrebten Versorgungsziel des Kunden und seiner zu erwartenden Versorgung."
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Lebensversicherung",
+    "erklärung": "dem angestrebten Versorgungsziel des Kunden und seiner zu erwartenden Versorgung.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Welche Kündigungsfrist gilt beim Wechsel eines Riester-Anbieters?",
+    "antworten": [
+      "zum Ende des Versicherungsjahres mit der Frist von einem Monat erfolgen.",
+      "mit der Frist von drei Monaten zum Ende des Kalenderjahres erfolgen.",
+      "mit einer Frist von drei Monaten zum Quartalsende erfolgen.",
+      "jederzeit zum übernächsten Kalendermonat erfolgen."
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Lebensversicherung",
+    "erklärung": "mit einer Frist von drei Monaten zum Quartalsende erfolgen.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Wird Riester-Altersvorsorgevermögen beim Bürgergeld als verwertbares Vermögen angerechnet?",
+    "antworten": [
+      "Ja, es erfolgt eine volle Anrechnung auf die Vermögenswerte.",
+      "Nein, es erfolgt nur eine teilweise Anrechnung auf die Vermögenswerte.",
+      "Ja, es erfolgt eine Anrechnung auf die Vermögenswerte im Verhältnis 1 zu 2.",
+      "Nein, das Riester-Guthaben gehört zum unantastbaren Schonvermögen."
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Lebensversicherung",
+    "erklärung": "Nein, das Riester-Guthaben gehört zum unantastbaren Schonvermögen.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Ebert kombiniert eine Basisrente mit Zusatzversicherungen. Wann bleiben die Beiträge steuerlich abzugsfähig?",
+    "antworten": [
+      "Der Beitrag für eine Berufsunfähigkeits-Zusatzversicherung kann uneingeschränkt steuerlich abgesetzt werden.",
+      "Der gesamte Vertrag kann von der Steuer abgesetzt werden.",
+      "Bei Einschluss eines Hinterbliebenenschutzes kann der Vertrag nicht mehr steuerlich abgesetzt werden.",
+      "Der gesamte Vertrag kann nur von der Steuer abgesetzt werden, wenn der Beitragsanteil zur Berufsunfähigkeitsversicherung unter 50 % liegt."
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Lebensversicherung",
+    "erklärung": "Der gesamte Vertrag kann nur von der Steuer abgesetzt werden, wenn der Beitragsanteil zur Berufsunfähigkeitsversicherung unter 50 % liegt.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Welche Überschussverwendung ist bei Herrn Franks Kapitallebensversicherung vertraglich vorgesehen?",
+    "antworten": [
+      "Bonussystem",
+      "Beitragsverrechnung",
+      "Verzinsliche Ansammlung",
+      "Kapitalzuschlag"
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Lebensversicherung",
+    "erklärung": "Verzinsliche Ansammlung",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Der Versicherer kündigt Herrn Gerbers Wohngebäudeversicherung nach einem Sturmschaden am 28.02.; Zugang ist am 10.03. Bis wann besteht Schutz?",
+    "antworten": [
+      "01.06.",
+      "10.03.",
+      "28.02.",
+      "10.04."
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Rechtsgrundlagen",
+    "erklärung": "10.04.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Frau Hoffmann verletzte die vorvertragliche Anzeigepflicht schuldlos. Welche Folge hat das für die eingereichte PKV-Rechnung?",
+    "antworten": [
+      "leistet entsprechend den vertraglichen Vereinbarungen.",
+      "leistet, verlangt aber für die Zukunft einen Prämienzuschlag.",
+      "ist leistungsfrei und erklärt den Rücktritt innerhalb eines Monats.",
+      "leistet, kündigt aber mit Monatsfrist, wenn ein Prämienzuschlag nicht möglich ist.",
+      "leistet, kündigt aber mit einer Frist von drei Monaten zum Jahresende."
+    ],
+    "richtige_antwort": 0,
+    "sparte": "Rechtsgrundlagen",
+    "erklärung": "leistet entsprechend den vertraglichen Vereinbarungen.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Wann kann Herr Ivers seine Wohngebäudeversicherung nach Abschluss eines Leitungswasserschadens frühestens kündigen?",
+    "antworten": [
+      "die vom Schaden betroffene Gefahr sofort kündigen kann.",
+      "aufgrund eines ersatzpflichtigen Schadens nicht kündigen kann.",
+      "nach Schluss des laufenden Versicherungsjahres kündigen kann.",
+      "den gesamten Vertrag sofort (innerhalb eines Monats) kündigen kann."
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Rechtsgrundlagen",
+    "erklärung": "den gesamten Vertrag sofort (innerhalb eines Monats) kündigen kann.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Jansen erhielt am 13.06. eine qualifizierte Mahnung mit Kündigung nach 14 Tagen. Bis wann kann er den Vertrag reaktivieren?",
+    "antworten": [
+      "27.09.",
+      "27.07.",
+      "13.07.",
+      "25.07.",
+      "27.06."
+    ],
+    "richtige_antwort": 1,
+    "sparte": "Rechtsgrundlagen",
+    "erklärung": "27.07.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Keller kauft ein Haus und kündigt die bestehende Gebäudeversicherung sofort nach dem Kaufvertrag. Warum ist die Kündigung unwirksam?",
+    "antworten": [
+      "Der Vertrag wurde auf 3 Jahre abgeschlossen. Deshalb besteht kein vorzeitiges Kündigungsrecht.",
+      "Der Erwerber hat kein außerordentliches Kündigungsrecht.",
+      "Die Kündigung wurde zurückgewiesen, weil die Umschreibung im Grundbuch noch nicht erfolgt ist.",
+      "Laut BGB (Bürgerliches Gesetzbuch) hat nur der Veräußerer das Recht zu kündigen, da er alle Rechte und Pflichten aus seinem Vertrag wahrnehmen muss."
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Rechtsgrundlagen",
+    "erklärung": "Die Kündigung wurde zurückgewiesen, weil die Umschreibung im Grundbuch noch nicht erfolgt ist.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Lenz hat eine qualifizierte Mahnung vom 17.05. bis zum 10.06. nicht bezahlt. Besteht für sein Haus noch Versicherungsschutz?",
+    "antworten": [
+      "Ja, aber nur noch innerhalb der Mahnfrist.",
+      "Ja, weil nach einer qualifizierten Mahnung noch unbedingt ein separates Kündigungsschreiben erfolgen muss.",
+      "Nein, da die Reaktivierungsfrist bereits abgelaufen ist.",
+      "Nein, da die Zahlungsfrist am 31.05. abgelaufen ist."
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Rechtsgrundlagen",
+    "erklärung": "Nein, da die Zahlungsfrist am 31.05. abgelaufen ist.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Der Versicherer kündigt Herrn Mertens Hausratvertrag nach einem Schaden. Was geschieht mit der bereits gezahlten Jahresprämie?",
+    "antworten": [
+      "die gezahlte Jahresprämie anteilig erstattet wird.",
+      "in diesem Fall dem Versicherer die gesamte Jahresprämie zusteht.",
+      "er bei Kündigungen durch den Versicherer die gesamte Jahresprämie zurückerhält.",
+      "die gezahlte Jahresprämie abzüglich einer Geschäftsgebühr erstattet wird."
+    ],
+    "richtige_antwort": 0,
+    "sparte": "Rechtsgrundlagen",
+    "erklärung": "die gezahlte Jahresprämie anteilig erstattet wird.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Vermittler Herr Nagel ruft einen Privatkunden ohne vorherige Einwilligung zur Altersvorsorgeberatung an. Ist das zulässig?",
+    "antworten": [
+      "Ja, ein solches Verhalten ist korrekt, da er sich als Vertreter einer Versicherung zu erkennen gegeben hat.",
+      "Ja, da es sich um eine Empfehlungsadresse handelt, ist die Telefonakquise erlaubt.",
+      "Nein, nach dem HGB ist die Telefonakquise durch Versicherungsvertreter nicht erlaubt.",
+      "Nein, Telefonwerbung ist für die Anbahnung von Versicherungsneugeschäften bei Privatkunden unzulässig."
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Rechtsgrundlagen",
+    "erklärung": "Nein, Telefonwerbung ist für die Anbahnung von Versicherungsneugeschäften bei Privatkunden unzulässig.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Otto schließt am 17.06. eine Unfallversicherung mit Versicherungsbeginn 01.07. ab; die Police kommt am 30.06. Welche Beginnarten fallen zusammen?",
+    "antworten": [
+      "formeller und technischer",
+      "formeller und materieller",
+      "materieller und technischer",
+      "formeller, materieller und technischer"
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Rechtsgrundlagen",
+    "erklärung": "materieller und technischer",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Pohl verletzte die Anzeigepflicht grob fahrlässig. Der Rücktritt geht ihm am 31.08. zu. Bis wann besteht der Beitragsanspruch?",
+    "antworten": [
+      "08.08.",
+      "29.08.",
+      "31.08.",
+      "01.01. des Folgejahres"
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Rechtsgrundlagen",
+    "erklärung": "31.08.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Ritter meldet den unverschuldeten Ausfall seiner Einbruchmeldeanlage sofort. Der Versicherer erhöht den Beitrag um 15 %. Welche Rechtsfolge gilt?",
+    "antworten": [
+      "Der Versicherer kann vom Vertrag zurücktreten, sofern Herr Ritter die nachgeforderte Prämie nicht bezahlen möchte.",
+      "Innerhalb eines Monats nach Zugang des Versicherungsnachtrags kann Herr Ritter den Vertrag ohne Einhaltung einer Frist kündigen.",
+      "Herr Ritter muss die höhere Prämie mit Wirkung zum 16.10. bezahlen.",
+      "Der Versicherer kann fristlos kündigen, sofern Herr Ritter die Differenzprämie nicht unverzüglich bezahlt."
+    ],
+    "richtige_antwort": 1,
+    "sparte": "Rechtsgrundlagen",
+    "erklärung": "Innerhalb eines Monats nach Zugang des Versicherungsnachtrags kann Herr Ritter den Vertrag ohne Einhaltung einer Frist kündigen.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Was bedeutet Geschäftsfähigkeit?",
+    "antworten": [
+      "selbständig ein Geschäft zu betreiben.",
+      "rechtswirksame Willenserklärungen abzugeben und entgegenzunehmen.",
+      "Träger von Rechten und Pflichten zu sein.",
+      "Verträge des täglichen Lebens im Rahmen des Taschengeldes eingehen zu können."
+    ],
+    "richtige_antwort": 1,
+    "sparte": "Rechtsgrundlagen",
+    "erklärung": "rechtswirksame Willenserklärungen abzugeben und entgegenzunehmen.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Welcher Verband vertritt besonders die Interessen selbstständiger Versicherungsvertreter im Außendienst?",
+    "antworten": [
+      "Bundesverband Deutscher Versicherungskaufleute e.V. (BVK)",
+      "Fachverbände der Versicherungswirtschaft",
+      "Gesamtverband der Deutschen Versicherungswirtschaft e.V. (GDV)",
+      "Verband der Schadenversicherer (VdS)"
+    ],
+    "richtige_antwort": 0,
+    "sparte": "Rechtsgrundlagen",
+    "erklärung": "Bundesverband Deutscher Versicherungskaufleute e.V. (BVK)",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Schulte eröffnete im versicherten Wohnhaus eine Gaststätte und verschwieg dies vorsätzlich. Besteht nach einem dort entstandenen Brand Schutz?",
+    "antworten": [
+      "Ja, über die Haftpflichtversicherung der Kneipe.",
+      "Nein, denn die Gefahrerhöhung wurde nicht fristgerecht angezeigt.",
+      "Ja, über die Vorsorgeversicherung für neu hinzugekommene Risiken.",
+      "Ja, über die Gebäudeversicherung, weil durch den Brand des Gebäudes Schaden entstanden ist."
+    ],
+    "richtige_antwort": 1,
+    "sparte": "Rechtsgrundlagen",
+    "erklärung": "Nein, denn die Gefahrerhöhung wurde nicht fristgerecht angezeigt.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Welche Handlung darf ein Vermittlungsagent ohne besondere Vollmacht gesetzlich vornehmen?",
+    "antworten": [
+      "nimmt die Prämie unter Vorlage der vom Versicherer unterzeichneten Prämienrechnung an.",
+      "macht nach der Prüfung des Sachverhaltes bei Antragsaufnahme vom Rücktrittsrecht des Versicherers Gebrauch.",
+      "erhöht rechtsverbindlich auf die Bitte des Kunden die Deckungssummen der PHV.",
+      "erteilt vorläufige Deckung bei einjährigen Verträgen.",
+      "reguliert unter Berücksichtigung, neu für alt, einen Privathaftpflicht-Schaden in Höhe von 80 €."
+    ],
+    "richtige_antwort": 0,
+    "sparte": "Rechtsgrundlagen",
+    "erklärung": "nimmt die Prämie unter Vorlage der vom Versicherer unterzeichneten Prämienrechnung an.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Frau Teschner beantragt am 14.06. Hausratschutz ab 01.07. und zahlt nach Policenerhalt am 07.07. Ist ein Schaden vom 04.07. versichert?",
+    "antworten": [
+      "Es besteht kein Versicherungsschutz, da bei Eintritt des Versicherungsfalles die Prämie noch nicht bezahlt war.",
+      "Es besteht kein Versicherungsschutz, da bei Eintritt des Versicherungsfalles noch kein Vertrag zustande gekommen war.",
+      "Der Schaden wird aus Kulanzgründen gezahlt, da Frau Teschner langjährige Kundin Ihrer Gesellschaft ist.",
+      "Es besteht kein Versicherungsschutz, da der materielle Beginn der 07.07. ist.",
+      "Es besteht Versicherungsschutz, da der materielle Beginn der 01.07. ist."
+    ],
+    "richtige_antwort": 4,
+    "sparte": "Rechtsgrundlagen",
+    "erklärung": "Es besteht Versicherungsschutz, da der materielle Beginn der 01.07. ist.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Die teilzeitbeschäftigte Frau Urban verunglückt auf dem Arbeitsweg. Hat sie Ansprüche aus der gesetzlichen Unfallversicherung?",
+    "antworten": [
+      "Ja, weil sie zum versicherten Personenkreis gehört.",
+      "Nein, weil nur Renten- und Krankenversicherungsbeiträge gezahlt werden.",
+      "Ja, weil der Unfall auf ein unabwendbares Ereignis zurückzuführen ist.",
+      "Nein, weil sie als geringfügig Beschäftige tätig ist."
+    ],
+    "richtige_antwort": 0,
+    "sparte": "Unfallversicherung",
+    "erklärung": "Ja, weil sie zum versicherten Personenkreis gehört.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Innerhalb welcher Frist nach einem Unfall wird die vereinbarte Todesfallleistung fällig?",
+    "antworten": [
+      "zwei Jahren aufgrund des Unfalls.",
+      "einem Jahr, und zwar zusätzlich zur Invaliditätsleistung.",
+      "einem Jahr nach dem Unfall, unabhängig von der Ursache.",
+      "einem Jahr aufgrund des Unfalls."
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Unfallversicherung",
+    "erklärung": "einem Jahr aufgrund des Unfalls.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Voss beginnt freiwilligen Wehrdienst. Was geschieht mit seiner privaten Unfallversicherung?",
+    "antworten": [
+      "- Der Versicherungsschutz und die Beitragszahlung werden für die Zeit des freiwilligen Wehrdienstes ausgesetzt.",
+      "Der Versicherungsschutz erlischt für alle Unfälle, die infolge des freiwilligen Wehrdienstes auftreten.",
+      "Der Versicherungsschutz besteht in vollem Umfang weiter und der Beitrag bleibt konstant.",
+      "Bei gleich bleibendem Beitrag verringern sich die Versicherungssummen, da er in eine andere Gefahrengruppe eingestuft wird."
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Unfallversicherung",
+    "erklärung": "Der Versicherungsschutz besteht in vollem Umfang weiter und der Beitrag bleibt konstant.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Frau Winter arbeitet wieder als Flugbegleiterin auf USA-Strecken. Was gilt für ihre private Unfallversicherung?",
+    "antworten": [
+      "auch in Ausübung ihres Berufes Versicherungsschutz besteht, allerdings verringern sich dabei die Versicherungsssumme wegen der Gefahrenerhöhung gemäß AUB.",
+      "sie sich keine Sorgen machen muss, sie ist nach AUB ausreichend versichert.",
+      "sie über ihre private Unfallversicherung auch bei ihrer beruflichen Tätigkeit mitversichert ist, da sie nicht Pilotin, sondern Stewardess ist.",
+      "sie im privaten Bereich ausreichend versichert ist, in Ausübung ihres Berufes hat sie aber gemäß AUB keinen Versicherungsschutz."
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Unfallversicherung",
+    "erklärung": "sie im privaten Bereich ausreichend versichert ist, in Ausübung ihres Berufes hat sie aber gemäß AUB keinen Versicherungsschutz.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Bis wann muss der Invaliditätsgrad nach einem Unfall endgültig festgestellt sein?",
+    "antworten": [
+      "5 Monaten",
+      "24 Monaten",
+      "3 Jahren",
+      "1 Jahr"
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Unfallversicherung",
+    "erklärung": "3 Jahren",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Der achtjährige Sohn von Herrn Ziegler erleidet nach einem Eis eine Lebensmittelvergiftung. Leistet die private Unfallversicherung?",
+    "antworten": [
+      "Sie teilen Herrn Ziegler mit, dass hier ein Selbstverschulden seines Sohnes Tim vorliegt und somit kein Versicherungsschutz gegeben ist.",
+      "Sie erläutern Herrn Ziegler, dass kein Versicherungsschutz besteht, da Vergiftungen bei Kindern nur bis zum vollendeten 7. Lebensjahr mitversichert sind.",
+      "Sie erklären Herrn Ziegler, dass Versicherungsschutz besteht, da Vergiftungen bei Kindern, die zum Unfallzeitpunkt das 10. Lebensjahr noch nicht vollendet haben, mitversichert sind.",
+      "Sie erläutern Herrn Ziegler, dass es sich hier um keinen Unfall handelt, da Tim die Vergiftung durch Lebensmittel erlitt."
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Unfallversicherung",
+    "erklärung": "Sie erläutern Herrn Ziegler, dass es sich hier um keinen Unfall handelt, da Tim die Vergiftung durch Lebensmittel erlitt.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Frau Ahrens erhält nach einem Unfall 900 EUR monatliche Privatrente. Wie wird diese steuerlich behandelt?",
+    "antworten": [
+      "wird zu 100% versteuert.",
+      "unterliegt der Erbschaftssteuer.",
+      "wird mit dem Ertragsanteil versteuert.",
+      "ist steuerfrei."
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Unfallversicherung",
+    "erklärung": "wird mit dem Ertragsanteil versteuert.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Rechtliche Grundlagen und Vorsorge Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Frau Bach zieht mit einem geliehenen Möbelwagen um. In welchem Fall besteht begrenzter Hausratschutz?",
+    "antworten": [
+      "Während sich alle Helfer in der Wohnung aufhalten, um neue Kisten zu holen, wird aus dem unverschlossenen Möbelwagen ein Karton mit Büchern gestohlen.",
+      "Gegen Mittag gönnen sich alle eine Pause in einer Imbissstube. Diese Situation nehmen Unbekannte zum Anlass den Umzugswagen anzuzünden. Ca. 10 % des Hausrates verbrennen.",
+      "Da es abends spät geworden ist, soll der Umzugswagen erst am nächsten Morgen ausgepackt werden. Der verschlossene Möbelwagen wird mit dem Hausrat gestohlen.",
+      "Während der Fahrt wird der Umzugswagen durch einen starken Sturm gegen die Leitplanke gedrückt und kippt anschließend um. Dabei wird Hausrat beschädigt."
+    ],
+    "richtige_antwort": 1,
+    "sparte": "Hausratversicherung",
+    "erklärung": "Gegen Mittag gönnen sich alle eine Pause in einer Imbissstube. Diese Situation nehmen Unbekannte zum Anlass den Umzugswagen anzuzünden. Ca. 10 % des Hausrates verbrennen.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Frau Cramer ist Versicherungsnehmerin und verlässt am 01.06. die Ehewohnung. Die Jahresprämie ist am 01.09. fällig. Bis wann hat Herr Cramer dort Schutz?",
+    "antworten": [
+      "01.06.",
+      "01.09.",
+      "01.12.",
+      "01.01. des nächsten Jahres"
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Hausratversicherung",
+    "erklärung": "01.12.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Der Pelzmantel von Frau Dorn wird gestohlen. Muss sie Ersatz kaufen, um den Wiederbeschaffungswert zu erhalten?",
+    "antworten": [
+      "Nur wenn sie sich sofort einen neuen Pelzmantel kauft.",
+      "Die Wiederbeschaffung muss innerhalb eines Jahres erfolgen.",
+      "Für Wertsachen wird immer nur der Liebhaberwert ersetzt.",
+      "Es besteht keine Wiederbeschaffungspflicht. Sie bekommt den Wiederbeschaffungswert am Schadentag ohne Mehrwertsteuer."
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Hausratversicherung",
+    "erklärung": "Es besteht keine Wiederbeschaffungspflicht. Sie bekommt den Wiederbeschaffungswert am Schadentag ohne Mehrwertsteuer.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Bei Frau Engel wird aus der angebauten Garage ein Fahrrad gestohlen und ein zweites mutwillig zerstört. Was ersetzt die Hausratversicherung?",
+    "antworten": [
+      "Das gestohlene Fahrrad wird ersetzt. Da das andere Fahrrad vorsätzlich zerstört wurde, und Vorsatz in der Hausratversicherung ausgeschlossen ist, wird hierfür kein Ersatz geleistet.",
+      "Beide Fahrräder werden zum Wiederbeschaffungswert ersetzt.",
+      "Sie hätte den Einschluss der Fahrräder gesondert beantragen müssen. Versicherungsschutz besteht deshalb nicht.",
+      "Das mutwillig zerstörte Fahrrad wird ersetzt. Das gestohlene ist nur versichert, wenn dies besonders vereinbart war."
+    ],
+    "richtige_antwort": 1,
+    "sparte": "Hausratversicherung",
+    "erklärung": "Beide Fahrräder werden zum Wiederbeschaffungswert ersetzt.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Faber lässt seine Wohnung während einer dreimonatigen Reise unbewohnt. Was gilt für den Hausratschutz?",
+    "antworten": [
+      "Für unbewohnte Wohnungen besteht grundsätzlich kein Versicherungsschutz.",
+      "Es muss eine besondere Vereinbarung getroffen werden.",
+      "Er muss dafür sorgen, dass die Wohnung ausreichend gesichert ist.",
+      "Der Versicherungsschutz endet nach 60 Tagen. Eine Verlängerung dieses Zeitraums ist nicht möglich."
+    ],
+    "richtige_antwort": 1,
+    "sparte": "Hausratversicherung",
+    "erklärung": "Es muss eine besondere Vereinbarung getroffen werden.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Welche Räume zählen bei Frau Gerlach zur Wohnfläche der Hausratversicherung?",
+    "antworten": [
+      "Hobbyräume",
+      "Hobbyräume und Garage",
+      "Hobby- und Kellerräume",
+      "Hobby- und Speicherräume"
+    ],
+    "richtige_antwort": 0,
+    "sparte": "Hausratversicherung",
+    "erklärung": "Hobbyräume",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Nach einem Einbruch fragt Herr Hagedorn, welche beschädigte Sache nicht entschädigt wird.",
+    "antworten": [
+      "Die durch den Aufbruch beschädigte Wohnungstür.",
+      "Die vom Täter mutwillig zerbrochenen Wein- und Sektgläser.",
+      "Die zerkratzten und zerbrochenen DVDs des Untermieters.",
+      "Die mit Lackfarbe besprühte Tapete im Schlafzimmer."
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Hausratversicherung",
+    "erklärung": "Die zerkratzten und zerbrochenen DVDs des Untermieters.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Sturm beschädigt Herrn Imhofs Dach; Regen ruiniert Tapeten und Sofa. Welche Schäden ersetzt die Hausratversicherung?",
+    "antworten": [
+      "Da nur das Dach unmittelbar durch den Sturm beschädigt wurde, lehnt die Hausratversicherung den Schaden ab.",
+      "Der gesamte Schaden wird bedingungsgemäß ersetzt.",
+      "Nur die Kosten für die Wiederbeschaffung des Sofas und die Renovierungskosten innerhalb der Wohnung werden übernommen.",
+      "Weder für das Dach noch für das Tapezieren werden die Kosten übernommen. Die Wiederbeschaffungskosten für das Sofa werden jedoch ersetzt."
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Hausratversicherung",
+    "erklärung": "Weder für das Dach noch für das Tapezieren werden die Kosten übernommen. Die Wiederbeschaffungskosten für das Sofa werden jedoch ersetzt.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Jung will für 65 m² den tatsächlichen Versicherungswert seines Hausrats absichern. Wie wird die Versicherungssumme ermittelt?",
+    "antworten": [
+      "Sie beziffern einen pauschalen Wiederbeschaffungswert als Versicherungssumme",
+      "Sie nehmen 650 EUR pro Quadratmeter Wohnfläche für die Versicherungssumme an.",
+      "Sie setzen für die Versicherungssumme 600 EUR pro Quadratmeter an.",
+      "Herr Jung ermittelt den Wert seines Hausrates zum Neupreis."
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Hausratversicherung",
+    "erklärung": "Herr Jung ermittelt den Wert seines Hausrates zum Neupreis.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Einbrecher öffnen bei Herrn Krüger Wasserhähne und verstopfen die Abläufe. Ersetzt die Wohngebäudeversicherung den Wasserschaden?",
+    "antworten": [
+      "Der Schaden wird übernommen, weil er durch bestimmungswidrig ausgetretenes Leitungswasser entstanden ist.",
+      "Es handelt sich um einen Folgeschaden aus einem Einbruchdiebstahl. Dieses Risiko ist in der Wohngebäudeversicherung nicht versichert. Deshalb wird der Schaden abgelehnt.",
+      "Der Schaden wird übernommen, wenn der Kunde eine besondere Vereinbarung geschlossen hat, nachdem Gebäudebeschädigungen durch unbefugte Dritte mitversichert sind.",
+      "Da der Leitungswasserschaden vorsätzlich herbeigeführt wurde, wird eine Ablehnung erfolgen."
+    ],
+    "richtige_antwort": 0,
+    "sparte": "Wohngebäudeversicherung",
+    "erklärung": "Der Schaden wird übernommen, weil er durch bestimmungswidrig ausgetretenes Leitungswasser entstanden ist.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Frau Lehmanns unversichertes Gartenhaus wird über ein Rohr vom Wohnhaus versorgt. Ist ein Rohrbruch zwischen den Gebäuden versichert?",
+    "antworten": [
+      "Es genügt, dass das Zuleitungsrohr seinen Ursprung im versicherten Gebäude hat. Ein evtl. Schaden wäre somit versichert.",
+      "Über die VGB besteht kein Versicherungsschutz. Eine besondere Vereinbarung wäre nur möglich, wenn auch das Gartenhäuschen versichert würde.",
+      "Da die Zuleitung der Versorgung eines nicht versicherten Gebäudes dient, besteht kein Versicherungsschutz.",
+      "Zuleitungsrohre sind ohne besondere Vereinbarung immer nur innerhalb von Gebäuden versichert"
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Wohngebäudeversicherung",
+    "erklärung": "Da die Zuleitung der Versorgung eines nicht versicherten Gebäudes dient, besteht kein Versicherungsschutz.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Trümmer einer Gasexplosion im Nachbarhaus beschädigen Herrn Mahlers Dach. Wer ersetzt den Schaden?",
+    "antworten": [
+      "Die Gebäudeversicherung des Nachbarn wird für den Schaden aufkommen.",
+      "Die Haftpflichtversicherung des Nachbarn wird für den Schaden aufkommen.",
+      "Der Schaden ist nicht versichert, weil es sich bei herumfliegenden Gebäudeteilen nicht um Luftfahrzeuge handelt.",
+      "Die eigene Gebäudeversicherung wird für den Schaden aufkommen, da die Ursache des Schadens eine Explosion war."
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Wohngebäudeversicherung",
+    "erklärung": "Die eigene Gebäudeversicherung wird für den Schaden aufkommen, da die Ursache des Schadens eine Explosion war.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Frau Noll repariert einen Sturmschaden wegen Handwerkermangels erst nach vier Monaten; die Kosten steigen von 40.000 auf 42.000 EUR. Wird der Mehrbetrag ersetzt?",
+    "antworten": [
+      "Nein, solche Mehrkosten sind nicht versicherbar.",
+      "Solche Kosten werden bis zur Entschädigungsgrenze von 5% übernommen.",
+      "Da die Kundin die Verzögerung nicht zu vertreten hat, werden die entstandenen Mehrkosten übernommen.",
+      "Diese Mehrkosten werden nur übernommen, wenn eine besondere Vereinbarung über die Mitversicherung getroffen wurde."
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Wohngebäudeversicherung",
+    "erklärung": "Da die Kundin die Verzögerung nicht zu vertreten hat, werden die entstandenen Mehrkosten übernommen.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Opitz kauft ein Haus mit bestehender Gebäudeversicherung, möchte aber zu seinem Versicherer wechseln. Was ist richtig?",
+    "antworten": [
+      "innerhalb 4 Wochen nach grundbuchamtlicher Umschreibung zur nächsten Hauptfälligkeit kündigen und dann einen neuen Vertrag abschließen.",
+      "innerhalb eines Monats nach grundbuchamtlicher Umschreibung zu sofort oder zur nächsten Hauptfälligkeit kündigen und dann einen neuen Vertrag abschließen.",
+      "innerhalb eines Monats nach notarieller Beurkundung des Kaufvertrages zur nächsten Hauptfälligkeit kündigen und dann einen neuen Vertrag abschließen.",
+      "innerhalb eines Monats kündigen und dann einen neuen Vertrag abschließen."
+    ],
+    "richtige_antwort": 1,
+    "sparte": "Wohngebäudeversicherung",
+    "erklärung": "innerhalb eines Monats nach grundbuchamtlicher Umschreibung zu sofort oder zur nächsten Hauptfälligkeit kündigen und dann einen neuen Vertrag abschließen.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Prange baut ein Haus. Gegen welche Gefahr schützt die Rohbauversicherung?",
+    "antworten": [
+      "gegen alle Grundgefahren",
+      "gegen Feuer und Sturm",
+      "gegen Feuer",
+      "gegen alle Gefahren inkl. Überspannung"
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Wohngebäudeversicherung",
+    "erklärung": "gegen Feuer",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Quandt montiert außen am Gebäude Blinkleuchten seiner Alarmanlage. Sind sie in der Wohngebäudeversicherung versichert?",
+    "antworten": [
+      "Die innen liegende Teile der Anlage sind mitversichert; lediglich die außen angebrachten Blinkleuchten sind nicht versichert.",
+      "Die Anlage ist Gebäudezubehör und somit nur über eine besondere Vereinbarung versichert.",
+      "Die Anlage ist in diesem Falle \"weiteres Zubehör\", so dass kein Versicherungsschutz besteht.",
+      "Die Anlage ist Gebäudezubehör, das der Nutzung zu Wohnzwecken dient und somit ohne besondere Vereinbarung mitversichert."
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Wohngebäudeversicherung",
+    "erklärung": "Die Anlage ist Gebäudezubehör, das der Nutzung zu Wohnzwecken dient und somit ohne besondere Vereinbarung mitversichert.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Kann Herr Rademacher eine gemauerte Hundehütte und einen freistehenden Holzbriefkasten in die Gebäudeversicherung einschließen?",
+    "antworten": [
+      "Beides ist bedingungsgemäß nach VGB mitversichert.",
+      "Die Hundehütte kann auf Grund besonderer Vereinbarung versichert werden. Der Briefkasten ist ohne Mehrbeitrag automatisch mitversichert.",
+      "Da die Hundehütte gemauert ist, kann sie über eine besondere Vereinbarung gegen Mehrbeitrag mitversichert werden. Der Briefkasten aus Holz kann hingegen nicht mitversichert werden.",
+      "Grundstücksbestandteile, die nicht mit dem Wohngebäude verbunden sind, können nicht versichert werden."
+    ],
+    "richtige_antwort": 1,
+    "sparte": "Wohngebäudeversicherung",
+    "erklärung": "Die Hundehütte kann auf Grund besonderer Vereinbarung versichert werden. Der Briefkasten ist ohne Mehrbeitrag automatisch mitversichert.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Seidel hält privat zwei Bienenvölker. Nach einem umgestoßenen Bienenkorb werden Passanten verletzt. Leistet seine PHV?",
+    "antworten": [
+      "Versicherungsschutz hat, da Bienen zu den mitversicherten Tierarten gehören.",
+      "Versicherungsschutz hat, da Bienen zu den mitversicherten Haustieren gehören.",
+      "keinen Versicherungsschutz hat, da Bienen im Sinne der Bedingungen zu den Nutztieren gehören.",
+      "keinen Versicherungsschutz hat, da Bienen als wilde Tiere gesondert versichert werden müssen."
+    ],
+    "richtige_antwort": 0,
+    "sparte": "Private Haftpflichtversicherung",
+    "erklärung": "Versicherungsschutz hat, da Bienen zu den mitversicherten Tierarten gehören.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Thomsen lässt ein Haus vollständig durch Fremdfirmen bauen. Braucht er dennoch eine Bauherrenhaftpflicht?",
+    "antworten": [
+      "Eine Bauherrenhaftpflichtversicherung wird tatsächlich nur benötigt, wenn er auch Eigenleistungen am Bau erbringt.",
+      "Da er als Bauherr aus der Gefährdungshaftung haftet, ist der Abschluss einer Bauherrenhaftpflichtversicherung in jedem Fall sinnvoll.",
+      "Wenn er seine Sorgfaltspflichten als Bauherr schuldhaft verletzt, muss er persönlich haften. Deshalb ist der Abschluss sehr empfehlenswert.",
+      "Der Bauherr haftet immer nur dann, wenn den Fremdfirmen kein Verschulden nachgewiesen werden kann. Trotzdem ist der Abschluss der Bauherrenhaftpflichtversicherung ratsam."
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Private Haftpflichtversicherung",
+    "erklärung": "Wenn er seine Sorgfaltspflichten als Bauherr schuldhaft verletzt, muss er persönlich haften. Deshalb ist der Abschluss sehr empfehlenswert.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Uhl beschädigt in einem New Yorker Hotel ein Waschbecken. Leistet seine PHV?",
+    "antworten": [
+      "Da der Schaden außerhalb des Geltungsbereiches entstanden ist, besteht kein Versicherungsschutz.",
+      "Die Mietsachschadendeckung ist genau für solche Schäden da. Es besteht Versicherungsschutz.",
+      "Es handelt sich um einen Schaden an fremden Sachen. Deshalb wird Versicherungsschutz gewährt.",
+      "Da es sich bei dem Waschbecken um eine gemietete Sache handelt, besteht kein Versicherungsschutz."
+    ],
+    "richtige_antwort": 1,
+    "sparte": "Private Haftpflichtversicherung",
+    "erklärung": "Die Mietsachschadendeckung ist genau für solche Schäden da. Es besteht Versicherungsschutz.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Vollmer verursacht mit 1,7 Promille auf dem Fahrrad einen Lackschaden. Leistet seine PHV?",
+    "antworten": [
+      "Versicherungsschutz besteht im Rahmen der vertraglichen Deckungssummen.",
+      "Versicherungsschutz besteht, allerdings kann der Versicherer ihn bis zu 5.000 EURO in Regress nehmen.",
+      "Der Versicherer wird den Schaden ablehnen, da die Schadenhöhe unter dem Regressbetrag von 5.000 EURO liegt.",
+      "Da das Fahrradfahren unter Alkoholgenuss grob fahrlässig ist, wird der Versicherer den Schaden ablehnen.",
+      "Durch den Alkoholgenuss ist eine Bewusstseinsstörung eingetreten. Ein in diesem Zustand verursachter Schaden ist vom Versicherungsschutz ausgeschlossen."
+    ],
+    "richtige_antwort": 0,
+    "sparte": "Private Haftpflichtversicherung",
+    "erklärung": "Versicherungsschutz besteht im Rahmen der vertraglichen Deckungssummen.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Frau Wegener beschädigt einen Glaseinsatz in der Tür ihrer Mietwohnung. Leistet ihre PHV?",
+    "antworten": [
+      "die Mietsachschadendeckung Schutz für solche Schäden bietet.",
+      "Glasbruchschäden in der Mietsachschadendeckung grundsätzlich ausgeschlossen sind.",
+      "über die Mietsachschadendeckung nur Gebäudebestandteile versichert sind, es sich hier jedoch um Bestandteile der Wohnung handelt.",
+      "die Mietsachschadendeckung nicht für Glasbruchschäden aufkommt, für die der Mieter eine separate Versicherung abschließen kann."
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Private Haftpflichtversicherung",
+    "erklärung": "die Mietsachschadendeckung nicht für Glasbruchschäden aufkommt, für die der Mieter eine separate Versicherung abschließen kann.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Frau Zander schenkt ihrer Tochter am 28.07. ein Pony; am 01.09. entsteht ein Haftpflichtschaden. Besteht PHV-Schutz?",
+    "antworten": [
+      "Da keine Pferdehalter-Haftpflichtversicherung abgeschlossen wurde, besteht kein Versicherungsschutz.",
+      "Nein, es besteht kein Versicherungsschutz, weil es sich hier eindeutig um einen Fall von Gefährdungshaftung gemäß § 823 BGB handelt.",
+      "Der Zeitpunkt des Schadens liegt noch im Bereich der Vorsorgeversicherung, deshalb ist der Schaden versichert.",
+      "Ja, es besteht Versicherungsschutz, weil es sich hier eindeutig um einen Fall von Verschuldenshaftung gemäß § 823 BGB handelt."
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Private Haftpflichtversicherung",
+    "erklärung": "Der Zeitpunkt des Schadens liegt noch im Bereich der Vorsorgeversicherung, deshalb ist der Schaden versichert.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Albers öffnet als Beifahrer unachtsam die Autotür; ein Radfahrer stürzt. Leistet seine PHV?",
+    "antworten": [
+      "Der Kfz-Haftpflichtversicherer des Freundes muss für den Schaden aufkommen.",
+      "Für Schäden, die im Verkehr entstehen, besteht grundsätzlich kein Versicherungsschutz.",
+      "Die PHV leistet im Rahmen der Vorsorgeversicherung.",
+      "Da er weder Eigentümer, Halter, Besitzer noch Führer des Fahrzeuges war, kommt die PHV für den entstandenen Schaden auf."
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Private Haftpflichtversicherung",
+    "erklärung": "Da er weder Eigentümer, Halter, Besitzer noch Führer des Fahrzeuges war, kommt die PHV für den entstandenen Schaden auf.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Frau Bender betreut für je 280 EUR monatlich zwei kleine Kinder. Eines läuft unbeaufsichtigt auf die Straße und ein Motorradfahrer stürzt. Leistet ihre PHV?",
+    "antworten": [
+      "Da sie die Aufsichtspflicht verletzt hat, wird der Versicherer den Schaden ersetzen.",
+      "Der Schaden hat sich zwar im beruflichen Bereich zugetragen, allerdings besteht über die PHV Versicherungsschutz.",
+      "Nur die Aufsicht über eigene Kinder ist mitversichert. Für die Beaufsichtigung fremder Kinder hätte sie einen eigenen Haftpflichtvertrag abschließen müssen.",
+      "Da sie mit ihrer Nebentätigkeit nicht mehr als 12.000 EURO verdient, besteht Versicherungsschutz durch die PHV."
+    ],
+    "richtige_antwort": 1,
+    "sparte": "Private Haftpflichtversicherung",
+    "erklärung": "Der Schaden hat sich zwar im beruflichen Bereich zugetragen, allerdings besteht über die PHV Versicherungsschutz.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Die vierjährige Tochter von Frau Cordes ruiniert unbeaufsichtigt den neuen Teppich ihrer Tante. Wie reguliert die PHV?",
+    "antworten": [
+      "ablehnen, weil die Aufsichtspflicht verletzt wurde.",
+      "am Teppichboden in Höhe des Zeitwertes regulieren, die Farbe aber nicht ersetzen.",
+      "regulieren, sofern Frau Cordes dieses wünscht.",
+      "ablehnen, wegen Deliktsfähigkeit des Kindes."
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Private Haftpflichtversicherung",
+    "erklärung": "regulieren, sofern Frau Cordes dieses wünscht.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Döring soll einen fest eingebauten Mietschrank wegen starker Abnutzung ersetzen. Leistet seine PHV?",
+    "antworten": [
+      "Es besteht kompletter Versicherungsschutz, da es sich um einen versicherten Mietsachschaden an gemieteten Räumen handelt.",
+      "Dass Mietsachschäden an Gebäudebestandteilen ausgeschlossen sind, da hierfür die Wohngebäudeversicherung zuständig ist.",
+      "Es besteht Versicherungsschutz, da Schäden an fest eingebauten Möbeln ohne Einschränkungen in der Mietsachschadendeckung für gemietete Räume mitversichert sind.",
+      "Die Leistungsabteilung kann diesen Schaden leider nicht regulieren, da es sich bedingt durch die Abnutzung um einen nicht versicherten Mietsachschaden handelt."
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Private Haftpflichtversicherung",
+    "erklärung": "Die Leistungsabteilung kann diesen Schaden leider nicht regulieren, da es sich bedingt durch die Abnutzung um einen nicht versicherten Mietsachschaden handelt.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Ein neuer Öltank hat Garantie, Leckanzeiger und Ölwanne. Ist eine Gewässerschadenhaftpflicht trotzdem sinnvoll?",
+    "antworten": [
+      "Ja, da der Eigentümer haften muss, wenn bei Verstoß gegen die Sorgfaltspflicht Erdreich durch Öl verunreinigt wird.",
+      "Ja, denn der Inhaber des Öltanks haftet in jedem Fall, unabhängig davon, ob er den Schaden verschuldet hat (Ausnahme höhere Gewalt).",
+      "Ja, weil der Besitzer im Rahmen der Gefährdungshaftung aus vermutetem Verschulden haftet, wenn er sich von dem Schuldvorwurf nicht befreien kann.",
+      "Nein, da der Hersteller des Kellertanks im Rahmen der zehnjährigen Garantie die Haftung für mögliche Umweltschäden übernehmen muss."
+    ],
+    "richtige_antwort": 1,
+    "sparte": "Private Haftpflichtversicherung",
+    "erklärung": "Ja, denn der Inhaber des Öltanks haftet in jedem Fall, unabhängig davon, ob er den Schaden verschuldet hat (Ausnahme höhere Gewalt).",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Nach einem unverschuldeten Auffahrunfall reagiert die gegnerische Versicherung nicht. Wie kann Herr Ernst seine Ansprüche geltend machen?",
+    "antworten": [
+      "seine Ansprüche direkt beim Unfallgegner geltend machen muss.",
+      "sich wegen seines Direktanspruchs nur an die gegnerische Versicherung wenden kann.",
+      "das Recht hat, seine Ansprüche bei der gegnerischen Versicherung direkt geltend zu machen.",
+      "seine Ansprüche über die eigene Versicherung beim Unfallgegner geltend machen muss."
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Kfz-Versicherung",
+    "erklärung": "das Recht hat, seine Ansprüche bei der gegnerischen Versicherung direkt geltend zu machen.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Friedrich fährt mit dem Pkw nach Italien. Was bestätigt die Internationale Versicherungskarte?",
+    "antworten": [
+      "bietet im Ausland im Rahmen der Gefährdungshaftung nach den Regeln des Besucherlandes Versicherungsschutz.",
+      "bestätigt im Ausland den Deckungsumfang des Versicherungsvertrages.",
+      "bestätigt im Ausland den Deckungsumfang zur Haftpflichtversicherung nach den Mindestregeln des Besucherlandes.",
+      "bestätigt, dass in der Bundesrepublik eine bezahlte Kraftfahrt-Haftpflichtversicherung nach den deutschen Mindestdeckungssummen besteht."
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Kfz-Versicherung",
+    "erklärung": "bestätigt im Ausland den Deckungsumfang zur Haftpflichtversicherung nach den Mindestregeln des Besucherlandes.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Frau Gebert lässt einen Freund den elterlichen Pkw fahren. Er verursacht einen Unfall; sie und ihr Bruder werden verletzt. Wer erhält KH-Schadenersatz?",
+    "antworten": [
+      "keine Leistung zu erwarten ist, da nur sie hätte fahren dürfen.",
+      "ihr Freund und ihr Bruder Schadenersatz erhalten, sie als Verfügungsberechtigte über das Kfz nicht.",
+      "sie und ihr Bruder Schadenersatz erhalten.",
+      "die Haftpflichtversicherung alle Schäden an den Personen übernimmt."
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Kfz-Versicherung",
+    "erklärung": "sie und ihr Bruder Schadenersatz erhalten.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Harms verursacht mit seinem teilkaskoversicherten Pkw einen Unfall. SB: 150 EUR; Blinker: 260 EUR; Scheinwerferglas: 35 EUR; Frontscheibe: 620 EUR; Motorhaube: 330 EUR. Welche Entschädigung erhält er?",
+    "antworten": [
+      "1.245 EUR",
+      "1.095 EUR",
+      "765 EUR",
+      "505 EUR",
+      "keine Entschädigung"
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Kfz-Versicherung",
+    "erklärung": "505 EUR",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Wozu dient die elektronische Versicherungsbestätigung (eVB)?",
+    "antworten": [
+      "Die eVB berechtigt Sie, Ihr Fahrzeug zuzulassen.",
+      "Die eVB bestätigt das Vorliegen eines ausreichenden Haftpflichtversicherungsschutzes. Somit kann die zuständige Behörde Ihren Wagen zulassen.",
+      "Die eVB bestätigt vorläufigen Schutz in der Haftpflichtund Kaskoversicherung.",
+      "Die eVB dient als Bestätigung der Antragsaufnahme."
+    ],
+    "richtige_antwort": 1,
+    "sparte": "Kfz-Versicherung",
+    "erklärung": "Die eVB bestätigt das Vorliegen eines ausreichenden Haftpflichtversicherungsschutzes. Somit kann die zuständige Behörde Ihren Wagen zulassen.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Isenberg verursacht einen Totalschaden. Wiederbeschaffungswert: 12.500 EUR, Restwert: 600 EUR, VK-SB: 300 EUR. Wie hoch ist die Leistung?",
+    "antworten": [
+      "12.050 EUR",
+      "11.900 EUR",
+      "11.750 EUR",
+      "11.600 EUR"
+    ],
+    "richtige_antwort": 3,
+    "sparte": "Kfz-Versicherung",
+    "erklärung": "11.600 EUR",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Frau Jürgens verleiht ihr Auto. Die Freundin verursacht betrunken einen Unfall. Gegen wen ist ein Regress möglich?",
+    "antworten": [
+      "Der Versicherer kann die Freundin in Regress nehmen.",
+      "Frau Jürgens muss mit einem Regress rechnen.",
+      "Der Versicherer kann sowohl bei Frau Jürgens als auch bei ihrer Freundin Regress nehmen.",
+      "Ein Regress ist in diesem Fall nicht möglich."
+    ],
+    "richtige_antwort": 0,
+    "sparte": "Kfz-Versicherung",
+    "erklärung": "Der Versicherer kann die Freundin in Regress nehmen.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Der 17-jährige Herr Koch wirft im Stadion absichtlich einen Golfball und verletzt ungewollt den Torwart. Wann besteht Rechtsschutz?",
+    "antworten": [
+      "keinen Versicherungsschutz, weil er vorsätzlich gehandelt hat.",
+      "Versicherungsschutz, weil er noch nicht volljährig ist.",
+      "Versicherungsschutz, wenn er nicht wegen vorsätzlicher Körperverletzung verurteilt wird.",
+      "Versicherungsschutz, weil das Werfen mit Gegenständen auf dem Fußballplatz eine Ordnungswidrigkeit darstellt."
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Rechtsschutzversicherung",
+    "erklärung": "Versicherungsschutz, wenn er nicht wegen vorsätzlicher Körperverletzung verurteilt wird.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Frau Lang wurde von ihrer Mutter enterbt. Leistet eine neu abgeschlossene Rechtsschutzversicherung für die Wahrung ihrer Erbansprüche?",
+    "antworten": [
+      "könnte über die Rechtsschutz-Versicherung ihren Pflichtanteil geltend machen.",
+      "würde Beratungs-Rechtsschutz erhalten, nachdem ihre Mutter verstorben ist.",
+      "würde keine Leistung erhalten, weil die Testamentsänderung vorvertraglich wäre.",
+      "könnte ihren Erbanspruch gerichtlich erstreiten."
+    ],
+    "richtige_antwort": 1,
+    "sparte": "Rechtsschutzversicherung",
+    "erklärung": "würde Beratungs-Rechtsschutz erhalten, nachdem ihre Mutter verstorben ist.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Maurer kaufte vor einer Woche ein fahruntaugliches Auto. Deckt seine seit zwei Jahren bestehende Fahrer-Rechtsschutzversicherung den Streit mit dem Verkäufer?",
+    "antworten": [
+      "Nein, der Fahrer-Rechtsschutz enthält nicht die Leistungsart Vertrags- und Sachenrecht.",
+      "Ja, im Fahrer-Rechtsschutz sind alle Streitigkeiten im Zusammenhang mit dem Straßenverkehr mitversichert.",
+      "Ja, da es für den Kauf eines Fahrzeuges einen vorsorglichen Versicherungsschutz gibt.",
+      "Nein, da der Vorsorgeschutz nur für fabrikneue Fahrzeuge gilt."
+    ],
+    "richtige_antwort": 2,
+    "sparte": "Rechtsschutzversicherung",
+    "erklärung": "Ja, da es für den Kauf eines Fahrzeuges einen vorsorglichen Versicherungsschutz gibt.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Nowak fährt seine Tochter zur Schule; nach dem Aussteigen wird sie von einem Motorrad erfasst. Greift der Privat-Rechtsschutz?",
+    "antworten": [
+      "Ja, die Tochter ist als Fußgängerin im Privat-Rechtsschutz mitversichert.",
+      "Nein, im Verkehrs-Rechtsschutz sind Fußgänger nicht versichert.",
+      "Nein, im Verkehrs-Rechtsschutz ist nur der Versicherungsnehmer als Fußgänger versichert.",
+      "Ja, Kinder sind bis zum 25. Lebensjahr mitversichert."
+    ],
+    "richtige_antwort": 0,
+    "sparte": "Rechtsschutzversicherung",
+    "erklärung": "Ja, die Tochter ist als Fußgängerin im Privat-Rechtsschutz mitversichert.",
+    "änderungsanfällig": true,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": "2026-09-11",
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  },
+  {
+    "frage": "Herr Peters wird bei einem grob fahrlässigen Verkehrsunfall verletzt und möchte als Nebenkläger auftreten. Sind die Kosten der Nebenklage versichert?",
+    "antworten": [
+      "alle Kosten des Herrn Peters zu übernehmen sind.",
+      "die Kosten einer Nebenklage nicht versichert sind.",
+      "die Kosten der Nebenklage nur übernommen werden, falls Herr Peters freigesprochen wird.",
+      "die Kosten des Herrn Peters übernommen werden, falls Herr Peters zahlungsunfähig ist."
+    ],
+    "richtige_antwort": 1,
+    "sparte": "Rechtsschutzversicherung",
+    "erklärung": "die Kosten einer Nebenklage nicht versichert sind.",
+    "änderungsanfällig": false,
+    "quelle": {
+      "titel": "Prüfungssimulation II Sach- und Vermögensversicherung Vorlage: eAcademy",
+      "url": "",
+      "stand": "2025-09-11"
+    },
+    "zuletzt_geprüft_am": "2025-09-11",
+    "nächste_prüfung_am": null,
+    "version": 1,
+    "prüfverantwortlich": "Redaktion"
+  }
+]

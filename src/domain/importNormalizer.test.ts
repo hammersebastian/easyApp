@@ -21,6 +21,11 @@ describe('Importnormalisierung', () => {
     expect(preview.items[0]?.normalized.subjectId).toBe('subject-pflegeversicherung');
   });
 
+  it('akzeptiert fünf Antwortmöglichkeiten', () => {
+    const preview = previewQuestionImport(JSON.stringify({ ...validQuestion, antworten: ['A', 'B', 'C', 'D', 'E'], richtige_antwort: 4 }));
+    expect(preview.valid).toBe(true);
+  });
+
   it('lehnt den gesamten Batch bei einem fehlerhaften Datensatz ab', () => {
     const preview = previewQuestionImport(JSON.stringify([validQuestion, { ...validQuestion, antworten: ['A', 'B'] }]));
     expect(preview.valid).toBe(false);
